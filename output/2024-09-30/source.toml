@@ -1,0 +1,36 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 12
+date = "24 Septiembre 2024"
+welcome = """
+En este número tengo un batiburrillo, y no mucho mas que decir. El siguiente número seguramente sea el martes, el lunes ando fuera.
+<br><br>
+"""
+[[articles]]
+number = 1
+url = "https://www.youtube.com/watch?v=86FAWCzIe_4"
+type = "VIDEO"
+cat = "GENERAL"
+summary = "Curso de programación en CUDA. No lo he visto aún, espero poder ver algo antes de que quede obsoleto. Este parece mas centrado en IA. También espero que sea mejor que el de Udemy."
+
+[[articles]]
+number = 2
+url = "https://medium.com/illumination/understanding-signals-in-unix-systems-a-deep-dive-7d4355b4a9cb"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Gestión de Señales en sistemas Unix y Unix-like (Linux)."
+
+[[articles]]
+number = 3
+url = "https://medium.com/@gealleh/mastering-template-metaprogramming-in-c-1c405781501d"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Artículo extenso pero bastante interesante sobre Template Metaprograming en C++."
+
+[[articles]]
+number = 4
+url = "https://mailchi.mp/bonillaware/software-sin-calidad"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Entrega de la bolinista que me gustó y que quería compartir. Espero que también os guste."
+

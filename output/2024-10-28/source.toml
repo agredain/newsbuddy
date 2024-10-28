@@ -1,0 +1,36 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 15
+date = "28 Octubre 2024"
+welcome = """
+Esta semana hay algo mas de variadito, creo que todo bastante práctico y que puede interesar a mucha gente, sobre todo para usar en los proyectos.
+<br><br>
+"""
+[[articles]]
+number = 1
+url = "https://opire.dev/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Esta semana he estado escuchando una entrevista a los desarrolladores de Opire, que es una plataforma que gestiona recompensas a desarrolladores que quieren y pueden hacer nuevas features y corregir errores de proyectos OpenSource. Por si quereis sacar un extra."
+
+[[articles]]
+number = 2
+url = "https://ryonaldteofilo.medium.com/writing-stable-apis-with-pimpl-and-fast-pimpl-in-c-9ec387fe4339"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Writing Stable APIs with pImpl and Fast pImpl in C++. Esta es una práctica que consiste en esconder absolutamente toda la implementación de una clase en el cpp. La ventaja está en ocultar dependencias que tendrían que aparecer en el .hpp de otros proyectos, recompilaciones mas rápidas ante cambios y varias cosas mas. Para la gente de C4iman no viene mal para esconder todas las cosas de LuciadCPillar."
+
+[[articles]]
+number = 3
+url = "https://medium.com/@CognitiveProgrammer/decoding-the-virtual-function-in-c-programming-language-cacb6f9d20dc"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Artículo en el que te explica el tema de las funciones virtuales en C++ cuando se utiliza herencia."
+
+[[articles]]
+number = 4
+url = "https://drpicox.medium.com/improve-your-testing-11-breaking-through-the-barrier-of-100-code-coverage-0c7813a2bd90"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Artículo que me ha entrado hoy fresquito a la bandeja en el que se habla sobre alcanzar coverage del 100%. La parte que mas me interesa es en el que habla sobre mockear las interfaces externas."
+

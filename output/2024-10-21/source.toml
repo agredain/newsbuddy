@@ -1,0 +1,42 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 14
+date = "21 Octubre 2024"
+welcome = """
+No he podido evitarlo, esta edición va a parecer que tengo un patrocinio porque todo lo que hay es material de Mattia Pantaloni.
+<br>
+Este señor tiene un podcast sobre Desarrollo Profesional muy interesante (al menos para mi), pero en esta ocasión nos da un conjunto de herramientas para mejorar profesionalmente.
+<br>
+Se que muchos de vosotros sois ya unos cracks, pero creo que es un ejercicio en el que teneis bastante que ganar y poco que perder.
+<br>
+En principio son tres videos puestos por orden explicando todo, y por último el pdf.
+<br><br>
+"""
+[[articles]]
+number = 1
+url = "https://www.youtube.com/watch?v=eP7xqIdS9oM"
+type = "VIDEO"
+cat = "GENERAL"
+summary = "Video en el que habla sobre la Ecuación de Valor."
+
+[[articles]]
+number = 2
+url = "https://vimeo.com/1018586613/329e27522a?share=copy"
+type = "VIDEO"
+cat = "GENERAL"
+summary = "Sesión Preparatoria Plan Profesional 2024 - 3 Octubre 2024."
+
+[[articles]]
+number = 3
+url = "https://vimeo.com/1018586613/329e27522a?share=copy"
+type = "VIDEO"
+cat = "GENERAL"
+summary = "Sesión Preparatoria Plan Profesional 2024 - 3 Octubre 2024."
+
+[[articles]]
+number = 4
+url = "https://desarrolloprofesional.com/wp-content/uploads/2024/10/La-Ecuacion-de-Valor-Guia-practica.pdf"
+type = "TEXT"
+cat = "GENERAL"
+summary = "PDF con la guía de la Ecuación de Valor."
+

@@ -1,0 +1,36 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 11
+date = "23 Septiembre 2024"
+welcome = """
+En esta ocasión traigo algo de material de Qt que espero que os sea de utilidad, sobre todo para los que vais a trabajar con C4i-MAN.
+<br><br>
+"""
+[[articles]]
+number = 1
+url = "https://github.com/KDABLabs/kdabtv"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Reposito de KDABLabs con todos los ejemplos de su canal de YouTube"
+
+[[articles]]
+number = 2
+url = "https://www.qt.io/blog/new-qt-extension-for-visual-studio-code-1.0-published"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Qt acaba de lanzar una extensión para Visual Studio Code (Alabado sea el señor!), lo he instalado pero por el momento no le he podido sacar partido, si alguien lo prueba que me cuente."
+
+[[articles]]
+number = 3
+url = "https://www.vikingsoftware.com/blog/getting-the-most-of-signal-slot-connections-in-qt/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Artículo sobre señales y slots en Qt. Lo mas interesante es el bonus point al final."
+
+[[articles]]
+number = 4
+url = "https://devtoys.app/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Swiss Army knife for developers, aplicación con muchas herramientas útiles para desarrolladores. Si lo probais, me contais que os parece."
+

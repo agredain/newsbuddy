@@ -1,0 +1,41 @@
+[metadata]
+title = "Newsletter del Viernes"
+no = 9
+date = "22 Julio 2024"
+welcome = """
+No se si alguien ha echado de menos esto, espero que en fondo del corazón de alguno sea asi.
+<br><br>
+Estoy planteando en enviar la newsletter los lunes en vez de los viernes, ¿qué os parece?
+<br><br>
+Hoy traigo las charlas de OpenSouthCode, una wiki con información sobre el estado general del sector, consejos para hacer tu CV o afrontar tus primeras entrevistas, una charla de C++ que espero que os sea interesante y un artículo sobre UML.
+<br><br>
+Vamos al grano y nos dejamos de tonterías.
+"""
+[[articles]]
+number = 1
+url = "https://www.getmanfred.com/helping-juniors"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Una wiki con información sobre el estado general del sector, consejos para hacer tu CV o afrontar tus primeras entrevistas."
+
+[[articles]]
+number = 2
+url = "https://www.youtube.com/@opensouthcode/videos"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Las charlas de OpenSouthCode"
+
+[[articles]]
+number = 3
+url = "https://youtube.com/watch?v=1fS0oDnHyRg&si=Jjz4VsaHCUN6piwo"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Almudena García. Malas prácticas en C y C++ y su solución."
+
+[[articles]]
+number = 4
+url = "https://blog.algomaster.io/p/uml-class-diagram-explained-with-examples"
+type = "TEXT"
+cat = "GENERAL"
+summary = ""
+

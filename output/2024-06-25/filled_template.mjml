@@ -1,0 +1,160 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all padding="0" />
+      <mj-text font-family="sans-serif" />
+      <mj-class name="header" padding="10px 10px 20px 10px" background-color="white" />
+      <mj-class name="header-title" align="left" font-family="monospace" font-size="24pt" font-weight="600" line-height="24pt" padding-bottom="10px" />
+      <mj-class name="header-image" align="right" width="100px" />
+      <mj-class name="header-issue" align="left" font-family="monospace" font-weight="200" />
+      <mj-class name="header-date" align="right" font-family="monospace" font-weight="200" />
+
+      <mj-class name="article" padding-bottom="10px" />
+      <mj-class name="article-title" font-family="monospace" font-weight="400" font-size="14pt" />
+
+      <mj-class name="summary" padding="0 10px 20px 10px" />
+
+      <mj-class name="category-heading" font-family="monospace" font-weight="600" font-size="18pt" />
+
+      <mj-class name="articles" padding="0 10px 0 10px" />
+      <mj-class name="images" padding="0 10px 20px 10px" />
+
+      <mj-class name="footer" padding="10px 10px 10px 10px" />
+
+      <mj-class name="footer-unsub" align="left" />
+      <mj-class name="footer-feedback" align="right" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-container>
+
+      <!-- Header -->
+      <mj-wrapper mj-class="header">
+        <mj-section>
+          <mj-column width="100%" vertical-align="middle">
+            <mj-text mj-class="header-title">Newsletter del Viernes</mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section>
+          <mj-group>
+            <mj-column width="50%">
+              <mj-text mj-class="header-issue">Issue No. 8</mj-text>
+            </mj-column>
+            <mj-column width="50%">
+              <mj-text mj-class="header-date">06 Octubre 2023</mj-text>
+            </mj-column>
+          </mj-group>
+        </mj-section>
+
+        <mj-section>
+          <mj-column>
+            <mj-divider border-width="1px" border-style="dotted" border-color="lightgrey" />
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+      <!-- /Header -->
+
+      <!-- Summary -->
+      <mj-section mj-class="summary">
+        <mj-column>
+          <mj-text>
+            En esta newsletter de hoy creo que puede ser bastante útil, en algunos casos cosas que espero que no estén en vuestros Notion aun.
+<br><br>
+Vamos, por el tema que puedan aportar algo.
+<br><br>
+Vamos al grano y nos dejamos de tonterías.
+
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Images -->
+      <mj-section mj-class="images">
+        <mj-column>
+          
+        </mj-column>
+      </mj-section>
+      
+      <mj-section>
+        <mj-column>
+          <mj-text>
+            <h2>Artículos</h2>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Articles -->
+			<mj-wrapper mj-class="articles">
+				
+          
+					<mj-section mj-class="article">
+						<mj-column>
+							
+              <mj-text mj-class="article-title"><a href="https://medium.com/@yakupcengiz/exploring-qt-icon-themes-and-customization-8debfadf1580">Exploring Qt Icon Themes and Customization | by Yakup Cengiz | Medium</a></mj-text>
+              
+							<mj-text mj-class="article-summary">Como hacer programas en Qt con estilo, no enseña a combinar colores, eso es cosa vuestra.</mj-text>
+						</mj-column>
+					</mj-section>
+				  
+        
+          
+					<mj-section mj-class="article">
+						<mj-column>
+							
+              <mj-text mj-class="article-title"><a href="https://franiglesias.github.io/liar_tests/">TalkingBit: Los tests mentirosos</a></mj-text>
+              
+							<mj-text mj-class="article-summary">Artículo interesante en el que explican como los test unitarios te pueden mentir en la cara, decir que tiene un 100% de cobertura de código y que luego te falle el código como si una escopeta de feria se tratase.</mj-text>
+						</mj-column>
+					</mj-section>
+				  
+        
+          
+					<mj-section mj-class="article">
+						<mj-column>
+							
+              <mj-text mj-class="article-title"><a href="https://free-for.dev">Free for Developers</a></mj-text>
+              
+							<mj-text mj-class="article-summary">Página web con cositas gratis. Se de mas de uno que está haciendo sus PFGs y le puede venir bien</mj-text>
+						</mj-column>
+					</mj-section>
+				  
+        
+          
+					<mj-section mj-class="article">
+						<mj-column>
+							
+              <mj-text mj-class="article-title"><a href="https://internalpointers.com/post/modern-cmake-beginner-introduction">Introduction to modern CMake for beginners  - Internal Pointers</a></mj-text>
+              
+							<mj-text mj-class="article-summary">Espero que este recurso le venga bien a mas de uno. En plan agua de mayo.</mj-text>
+						</mj-column>
+					</mj-section>
+				  
+        
+
+        
+      </mj-wrapper>
+
+      <!-- Footer -->
+      <mj-wrapper mj-class="footer">
+        <mj-section>
+          <mj-column>
+            <mj-divider border-width="1px" border-style="dotted" border-color="lightgrey" padding-bottom="5px" />
+          </mj-column>
+        </mj-section>
+
+        <mj-section>
+          <mj-group>
+            <mj-column width="50%">
+              <mj-text mj-class="footer-unsub">Not interested? <a href="mailto:daniel.agredano@gtd.eu?Subject=iX%20Newsletter%20--%20Unsubscribe">Unsubscribe</a></mj-text>
+            </mj-column>
+            <mj-column width="50%">
+              <mj-text mj-class="footer-feedback"><a href="mailto:daniel.agredano@gtd.eu?Subject=iX%20Newsletter%20--%20Feedback">Feedback</a></mj-text>
+            </mj-column>
+          </mj-group>
+        </mj-section>
+      </mj-wrapper>
+
+    </mj-container>
+  </mj-body>
+</mjml>

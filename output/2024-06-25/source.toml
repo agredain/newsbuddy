@@ -1,0 +1,38 @@
+[metadata]
+title = "Newsletter del Viernes"
+no = 8
+date = "06 Octubre 2023"
+welcome = """
+En esta newsletter de hoy creo que puede ser bastante útil, en algunos casos cosas que espero que no estén en vuestros Notion aun.
+<br><br>
+Vamos, por el tema que puedan aportar algo.
+<br><br>
+Vamos al grano y nos dejamos de tonterías.
+"""
+[[articles]]
+number = 1
+url = "https://medium.com/@yakupcengiz/exploring-qt-icon-themes-and-customization-8debfadf1580"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Como hacer programas en Qt con estilo, no enseña a combinar colores, eso es cosa vuestra."
+
+[[articles]]
+number = 2
+url = "https://franiglesias.github.io/liar_tests/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Artículo interesante en el que explican como los test unitarios te pueden mentir en la cara, decir que tiene un 100% de cobertura de código y que luego te falle el código como si una escopeta de feria se tratase."
+
+[[articles]]
+number = 3
+url = "https://free-for.dev"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Página web con cositas gratis. Se de mas de uno que está haciendo sus PFGs y le puede venir bien"
+
+[[articles]]
+number = 4
+url = "https://internalpointers.com/post/modern-cmake-beginner-introduction"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Espero que este recurso le venga bien a mas de uno. En plan agua de mayo."

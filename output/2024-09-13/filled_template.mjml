@@ -1,0 +1,158 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all padding="0" />
+      <mj-text font-family="sans-serif" />
+      <mj-class name="header" padding="10px 10px 20px 10px" background-color="white" />
+      <mj-class name="header-title" align="left" font-family="monospace" font-size="24pt" font-weight="600" line-height="24pt" padding-bottom="10px" />
+      <mj-class name="header-image" align="right" width="100px" />
+      <mj-class name="header-issue" align="left" font-family="monospace" font-weight="200" />
+      <mj-class name="header-date" align="right" font-family="monospace" font-weight="200" />
+
+      <mj-class name="article" padding-bottom="10px" />
+      <mj-class name="article-title" font-family="monospace" font-weight="400" font-size="14pt" />
+
+      <mj-class name="summary" padding="0 10px 20px 10px" />
+
+      <mj-class name="category-heading" font-family="monospace" font-weight="600" font-size="18pt" />
+
+      <mj-class name="articles" padding="0 10px 0 10px" />
+      <mj-class name="images" padding="0 10px 20px 10px" />
+
+      <mj-class name="footer" padding="10px 10px 10px 10px" />
+
+      <mj-class name="footer-unsub" align="left" />
+      <mj-class name="footer-feedback" align="right" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-container>
+
+      <!-- Header -->
+      <mj-wrapper mj-class="header">
+        <mj-section>
+          <mj-column width="100%" vertical-align="middle">
+            <mj-text mj-class="header-title">Newsletter del Viernes, que ahora son los Lunes</mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section>
+          <mj-group>
+            <mj-column width="50%">
+              <mj-text mj-class="header-issue">Issue No. 10</mj-text>
+            </mj-column>
+            <mj-column width="50%">
+              <mj-text mj-class="header-date">16 Septiembre 2024</mj-text>
+            </mj-column>
+          </mj-group>
+        </mj-section>
+
+        <mj-section>
+          <mj-column>
+            <mj-divider border-width="1px" border-style="dotted" border-color="lightgrey" />
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+      <!-- /Header -->
+
+      <!-- Summary -->
+      <mj-section mj-class="summary">
+        <mj-column>
+          <mj-text>
+            Espero coger algo de rutina con esto, que lo tengo abandonado y triste en un rincón.
+<br><br>
+Por el momento creo que fue solamente Raúl el que me dijo que los lunes mejor, asi que asi se va a quedar, que es mi unico fan.
+
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Images -->
+      <mj-section mj-class="images">
+        <mj-column>
+          
+        </mj-column>
+      </mj-section>
+      
+      <mj-section>
+        <mj-column>
+          <mj-text>
+            <h2>Artículos</h2>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Articles -->
+			<mj-wrapper mj-class="articles">
+				
+          
+					<mj-section mj-class="article">
+						<mj-column>
+							
+              <mj-text mj-class="article-title"><a href="https://dev.to/somadevtoo/9-software-architecture-patterns-for-distributed-systems-2o86">9 Software Architecture Patterns for Distributed Systems - DEV Community</a></mj-text>
+              
+							<mj-text mj-class="article-summary">Patrones para sistemas distribuidos. Poco se usa aqui en GTD pero siempre viene bien algo de culturilla.</mj-text>
+						</mj-column>
+					</mj-section>
+				  
+        
+          
+					<mj-section mj-class="article">
+						<mj-column>
+							
+              <mj-text mj-class="article-title"><a href="https://medium.com/@weidagang/modern-c-lvalues-rvalues-and-move-semantics-b00c2dbc6ded">Modern C++: Lvalues, Rvalues, and Move Semantics | by Dagang Wei | Medium</a></mj-text>
+              
+							<mj-text mj-class="article-summary">En el curso de C++ ya se habla sobre este tema, que creo que esta bien explicado, pero es una funcionalidad bastante buena e interesante.</mj-text>
+						</mj-column>
+					</mj-section>
+				  
+        
+          
+					<mj-section mj-class="article">
+						<mj-column>
+							
+              <mj-text mj-class="article-title"><a href="https://github.com/HappyCerberus/daily-bite-cpp">GitHub - HappyCerberus/daily-bite-cpp: A directory for the Daily bit(e) of C++ series of posts.</a></mj-text>
+              
+							<mj-text mj-class="article-summary">Repositorio de la newsletter de Daily bit(e) of C++, ya no se actualiza pero es un repositorio de pequeños ejemplos de C++ que ayudan a entender mejor muchos conceptos y cuenta cosas interesantes.</mj-text>
+						</mj-column>
+					</mj-section>
+				  
+        
+          
+					<mj-section mj-class="article">
+						<mj-column>
+							
+              <mj-text mj-class="article-title"><a href="https://blog.bytebytego.com/i/147924677/a-cheatsheet-for-uml-class-diagrams">EP127: 20 Popular Open Source Projects Started or Supported By Big Companies</a></mj-text>
+              
+							<mj-text mj-class="article-summary">Cheatsheet para diagramas de clases UML, yo al menos siempre me lio.</mj-text>
+						</mj-column>
+					</mj-section>
+				  
+        
+
+        
+      </mj-wrapper>
+
+      <!-- Footer -->
+      <mj-wrapper mj-class="footer">
+        <mj-section>
+          <mj-column>
+            <mj-divider border-width="1px" border-style="dotted" border-color="lightgrey" padding-bottom="5px" />
+          </mj-column>
+        </mj-section>
+
+        <mj-section>
+          <mj-group>
+            <mj-column width="50%">
+              <mj-text mj-class="footer-unsub">Not interested? <a href="mailto:daniel.agredano@gtd.eu?Subject=iX%20Newsletter%20--%20Unsubscribe">Unsubscribe</a></mj-text>
+            </mj-column>
+            <mj-column width="50%">
+              <mj-text mj-class="footer-feedback"><a href="mailto:daniel.agredano@gtd.eu?Subject=iX%20Newsletter%20--%20Feedback">Feedback</a></mj-text>
+            </mj-column>
+          </mj-group>
+        </mj-section>
+      </mj-wrapper>
+
+    </mj-container>
+  </mj-body>
+</mjml>

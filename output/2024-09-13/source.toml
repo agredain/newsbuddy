@@ -1,0 +1,37 @@
+[metadata]
+title = "Newsletter del Viernes, que ahora son los Lunes"
+no = 10
+date = "16 Septiembre 2024"
+welcome = """
+Espero coger algo de rutina con esto, que lo tengo abandonado y triste en un rincón.
+<br><br>
+Por el momento creo que fue solamente Raúl el que me dijo que los lunes mejor, asi que asi se va a quedar, que es mi unico fan.
+"""
+[[articles]]
+number = 1
+url = "https://dev.to/somadevtoo/9-software-architecture-patterns-for-distributed-systems-2o86"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Patrones para sistemas distribuidos. Poco se usa aqui en GTD pero siempre viene bien algo de culturilla."
+
+[[articles]]
+number = 2
+url = "https://medium.com/@weidagang/modern-c-lvalues-rvalues-and-move-semantics-b00c2dbc6ded"
+type = "TEXT"
+cat = "GENERAL"
+summary = "En el curso de C++ ya se habla sobre este tema, que creo que esta bien explicado, pero es una funcionalidad bastante buena e interesante."
+
+[[articles]]
+number = 3
+url = "https://github.com/HappyCerberus/daily-bite-cpp"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Repositorio de la newsletter de Daily bit(e) of C++, ya no se actualiza pero es un repositorio de pequeños ejemplos de C++ que ayudan a entender mejor muchos conceptos y cuenta cosas interesantes."
+
+[[articles]]
+number = 4
+url = "https://blog.bytebytego.com/i/147924677/a-cheatsheet-for-uml-class-diagrams"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Cheatsheet para diagramas de clases UML, yo al menos siempre me lio."
+

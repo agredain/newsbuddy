@@ -1,0 +1,157 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all padding="0" />
+      <mj-text font-family="sans-serif" />
+      <mj-class name="header" padding="10px 10px 20px 10px" background-color="white" />
+      <mj-class name="header-title" align="left" font-family="monospace" font-size="24pt" font-weight="600" line-height="24pt" padding-bottom="10px" />
+      <mj-class name="header-image" align="right" width="100px" />
+      <mj-class name="header-issue" align="left" font-family="monospace" font-weight="200" />
+      <mj-class name="header-date" align="right" font-family="monospace" font-weight="200" />
+
+      <mj-class name="article" padding-bottom="10px" />
+      <mj-class name="article-title" font-family="monospace" font-weight="400" font-size="14pt" />
+
+      <mj-class name="summary" padding="0 10px 20px 10px" />
+
+      <mj-class name="category-heading" font-family="monospace" font-weight="600" font-size="18pt" />
+
+      <mj-class name="articles" padding="0 10px 0 10px" />
+      <mj-class name="images" padding="0 10px 20px 10px" />
+
+      <mj-class name="footer" padding="10px 10px 10px 10px" />
+
+      <mj-class name="footer-unsub" align="left" />
+      <mj-class name="footer-feedback" align="right" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-container>
+
+      <!-- Header -->
+      <mj-wrapper mj-class="header">
+        <mj-section>
+          <mj-column width="100%" vertical-align="middle">
+            <mj-text mj-class="header-title">Newsletter del Lunes.</mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section>
+          <mj-group>
+            <mj-column width="50%">
+              <mj-text mj-class="header-issue">Issue No. 15</mj-text>
+            </mj-column>
+            <mj-column width="50%">
+              <mj-text mj-class="header-date">28 Octubre 2024</mj-text>
+            </mj-column>
+          </mj-group>
+        </mj-section>
+
+        <mj-section>
+          <mj-column>
+            <mj-divider border-width="1px" border-style="dotted" border-color="lightgrey" />
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+      <!-- /Header -->
+
+      <!-- Summary -->
+      <mj-section mj-class="summary">
+        <mj-column>
+          <mj-text>
+            Esta semana hay algo mas de variadito, creo que todo bastante práctico y que puede interesar a mucha gente, sobre todo para usar en los proyectos.
+<br><br>
+
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Images -->
+      <mj-section mj-class="images">
+        <mj-column>
+          
+        </mj-column>
+      </mj-section>
+      
+      <mj-section>
+        <mj-column>
+          <mj-text>
+            <h2>Artículos</h2>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Articles -->
+			<mj-wrapper mj-class="articles">
+				
+          
+					<mj-section mj-class="article">
+						<mj-column>
+							
+              <mj-text mj-class="article-title"><a href="https://opire.dev/">Opire - the reward platform for software developers</a></mj-text>
+              
+							<mj-text mj-class="article-summary">Esta semana he estado escuchando una entrevista a los desarrolladores de Opire, que es una plataforma que gestiona recompensas a desarrolladores que quieren y pueden hacer nuevas features y corregir errores de proyectos OpenSource. Por si quereis sacar un extra.</mj-text>
+						</mj-column>
+					</mj-section>
+				  
+        
+          
+					<mj-section mj-class="article">
+						<mj-column>
+							
+              <mj-text mj-class="article-title"><a href="https://ryonaldteofilo.medium.com/writing-stable-apis-with-pimpl-and-fast-pimpl-in-c-9ec387fe4339">Writing Stable APIs with pImpl and Fast pImpl in C++ | by Ryonald Teofilo | Medium</a></mj-text>
+              
+							<mj-text mj-class="article-summary">Writing Stable APIs with pImpl and Fast pImpl in C++. Esta es una práctica que consiste en esconder absolutamente toda la implementación de una clase en el cpp. La ventaja está en ocultar dependencias que tendrían que aparecer en el .hpp de otros proyectos, recompilaciones mas rápidas ante cambios y varias cosas mas. Para la gente de C4iman no viene mal para esconder todas las cosas de LuciadCPillar.</mj-text>
+						</mj-column>
+					</mj-section>
+				  
+        
+          
+					<mj-section mj-class="article">
+						<mj-column>
+							
+              <mj-text mj-class="article-title"><a href="https://medium.com/@CognitiveProgrammer/decoding-the-virtual-function-in-c-programming-language-cacb6f9d20dc">Decoding the ‘Virtual’ Function in C++ Programming Language | by Daksh Gupta | Oct, 2024 | Medium</a></mj-text>
+              
+							<mj-text mj-class="article-summary">Artículo en el que te explica el tema de las funciones virtuales en C++ cuando se utiliza herencia.</mj-text>
+						</mj-column>
+					</mj-section>
+				  
+        
+          
+					<mj-section mj-class="article">
+						<mj-column>
+							
+              <mj-text mj-class="article-title"><a href="https://drpicox.medium.com/improve-your-testing-11-breaking-through-the-barrier-of-100-code-coverage-0c7813a2bd90">Improve Your Testing #11: Breaking through the barrier of 100% code coverage | by David Rodenas PhD | Oct, 2024 | Medium</a></mj-text>
+              
+							<mj-text mj-class="article-summary">Artículo que me ha entrado hoy fresquito a la bandeja en el que se habla sobre alcanzar coverage del 100%. La parte que mas me interesa es en el que habla sobre mockear las interfaces externas.</mj-text>
+						</mj-column>
+					</mj-section>
+				  
+        
+
+        
+      </mj-wrapper>
+
+      <!-- Footer -->
+      <mj-wrapper mj-class="footer">
+        <mj-section>
+          <mj-column>
+            <mj-divider border-width="1px" border-style="dotted" border-color="lightgrey" padding-bottom="5px" />
+          </mj-column>
+        </mj-section>
+
+        <mj-section>
+          <mj-group>
+            <mj-column width="50%">
+              <mj-text mj-class="footer-unsub">Not interested? <a href="mailto:daniel.agredano@gtd.eu?Subject=iX%20Newsletter%20--%20Unsubscribe">Unsubscribe</a></mj-text>
+            </mj-column>
+            <mj-column width="50%">
+              <mj-text mj-class="footer-feedback"><a href="mailto:daniel.agredano@gtd.eu?Subject=iX%20Newsletter%20--%20Feedback">Feedback</a></mj-text>
+            </mj-column>
+          </mj-group>
+        </mj-section>
+      </mj-wrapper>
+
+    </mj-container>
+  </mj-body>
+</mjml>

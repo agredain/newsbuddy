@@ -1,0 +1,36 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 13
+date = "14 Octubre 2024"
+welcome = """
+Edición especial con poco código, todo morralla para rellenar y para hacer pensar. No todo va a ser Templates y Metaprograming.
+<br><br>
+"""
+[[articles]]
+number = 1
+url = "https://mailchi.mp/bonillaware/5-reglas-programacion"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Las 5 reglas de la programación de Rob Pike. Artículo de la Bolinista en el que explica dichas cinco reglas que al final son buenas prácticas."
+
+[[articles]]
+number = 2
+url = "https://mailchi.mp/bonillaware/facturar-espana"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Otro artículo de la Bolinista. En este caso no aporta una pildora de conocimiento pero si es un artículo bastante ameno para leer."
+
+[[articles]]
+number = 3
+url = "https://youtube.com/watch?v=p5sLx2OTP4M&si=9T38q3qrhD0AuXij"
+type = "VIDEO"
+cat = "GENERAL"
+summary = "6 impossible things de Kevlin Henney. La vi hace tiempo, simplemente recuerdo que os podría molar."
+
+[[articles]]
+number = 4
+url = "https://youtube.com/watch?v=ms2BvRbjOYo&si=-FUFfK8gbVy53R5_"
+type = "VIDEO"
+cat = "GENERAL"
+summary = "This is Water, de David Foster Wallace. Charla filosófica que te deja mucho que pensar. Esta al final pero casi sería lo primero que ver."
+
