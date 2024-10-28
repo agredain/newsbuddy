@@ -72,6 +72,14 @@
           {{end}}
         </mj-column>
       </mj-section>
+      
+      <mj-section>
+        <mj-column>
+          <mj-text>
+            <h2>Artículos</h2>
+          </mj-text>
+        </mj-column>
+      </mj-section>
 
       <!-- Articles -->
 			<mj-wrapper mj-class="articles">
@@ -81,28 +89,7 @@
 						<mj-column>
 							{{if eq .Type "TEXT"}}
               <mj-text mj-class="article-title"><a href="{{.URL}}">{{.Title}}{{if eq .Type "VIDEO"}} [video] {{end}}</a></mj-text>
-              {{else if eq .Type "IMAGE"}}
-              <mj-image width="500px" src="{{.URL}}" />
-              {{end}}
-							<mj-text mj-class="article-summary">{{.Summary}}</mj-text>
-						</mj-column>
-					</mj-section>
-				  {{end}}
-        {{end}}
-
-        <mj-section>
-          <mj-column>
-            <mj-text>
-              <h2>Dev Basement 🤓</h2>
-            </mj-text>
-          </mj-column>
-        </mj-section>
-
-        {{range .Articles}}
-          {{if eq .Category "DEV"}}
-					<mj-section mj-class="article">
-						<mj-column>
-							{{if eq .Type "TEXT"}}
+              {{else if eq .Type "VIDEO"}}
               <mj-text mj-class="article-title"><a href="{{.URL}}">{{.Title}}{{if eq .Type "VIDEO"}} [video] {{end}}</a></mj-text>
               {{else if eq .Type "IMAGE"}}
               <mj-image width="500px" src="{{.URL}}" />
@@ -113,28 +100,7 @@
 				  {{end}}
         {{end}}
 
-        <mj-section>
-          <mj-column>
-            <mj-text>
-              <h2>Recipe of the Week 🍽</h2>
-            </mj-text>
-          </mj-column>
-        </mj-section>
-
-        {{range .Articles}}
-          {{if eq .Category "RECIPE"}}
-					<mj-section mj-class="article">
-						<mj-column>
-              {{if eq .Type "TEXT"}}
-							<mj-text mj-class="article-title"><a href="{{.URL}}">{{.Title}}{{if eq .Type "VIDEO"}} [video] {{end}}</a></mj-text>
-              {{else if eq .Type "IMAGE"}}
-              <mj-image width="500px" src="{{.URL}}" />
-              {{end}}
-							<mj-text mj-class="article-summary">{{.Summary}}</mj-text>
-						</mj-column>
-					</mj-section>
-				  {{end}}
-        {{end}}
+        
       </mj-wrapper>
 
       <!-- Footer -->
@@ -148,10 +114,10 @@
         <mj-section>
           <mj-group>
             <mj-column width="50%">
-              <mj-text mj-class="footer-unsub">Not interested? <a href="mailto:jamesliu@au1.ibm.com?Subject=iX%20Newsletter%20--%20Unsubscribe">Unsubscribe</a></mj-text>
+              <mj-text mj-class="footer-unsub">Not interested? <a href="mailto:daniel.agredano@gtd.eu?Subject=iX%20Newsletter%20--%20Unsubscribe">Unsubscribe</a></mj-text>
             </mj-column>
             <mj-column width="50%">
-              <mj-text mj-class="footer-feedback"><a href="mailto:jamesliu@au1.ibm.com?Subject=iX%20Newsletter%20--%20Feedback">Feedback</a></mj-text>
+              <mj-text mj-class="footer-feedback"><a href="mailto:daniel.agredano@gtd.eu?Subject=iX%20Newsletter%20--%20Feedback">Feedback</a></mj-text>
             </mj-column>
           </mj-group>
         </mj-section>
