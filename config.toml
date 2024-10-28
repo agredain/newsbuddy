@@ -1,40 +1,35 @@
 [metadata]
-title = "iX Friday Fill-Ins"
-no = 28
-date = "15 Mar 2019"
+title = "Newsletter del Lunes."
+no = 15
+date = "28 Octubre 2024"
 welcome = """
-
+<br><br>
 """
 [[articles]]
-url = "https://www.newyorker.com/science/elements/the-software-that-shapes-workers-lives"
+number = 1
+url = ""
 type = "TEXT"
 cat = "GENERAL"
-summary = ""
+summary = "."
 
 [[articles]]
-url = "https://roadsandkingdoms.com/travel-guide/tokyo/a-history-of-tokyo-in-8-dishes/"
+number = 2
+url = ""
 type = "TEXT"
 cat = "GENERAL"
-summary = ""
+summary = "."
 
 [[articles]]
-url = "http://www.internalpointers.com/post/gentle-introduction-multithreading"
-type = "TEXT"
-cat = "DEV"
-summary = ""
-
-[[articles]]
-url = "https://ethanmarcotte.com/wrote/the-web-we-broke/"
+number = 3
+url = ""
 type = "TEXT"
 cat = "GENERAL"
-summary = ""
+summary = "."
 
 [[articles]]
-url = "https://arstechnica.com/information-technology/2019/03/faa-acting-chief-says-satellite-data-provided-link-between-boeing-crashes/"
+number = 4
+url = ""
 type = "TEXT"
 cat = "GENERAL"
-summary = ""
+summary = "."
 
-[[images]]
-path = "./image.png"
-alt = "A poster stuck to a wall saying 'In case of fire: 1) git commit, 2) git push, 3) leave building'"

@@ -11,6 +11,7 @@ import (
 	"log"
 	"os"
 	"time"
+	"sort"
 )
 
 func main() {
@@ -91,6 +92,10 @@ func main() {
 		// template.
 		if len(articles)+len(images) == asyncTasks {
 			log.Printf("[main] Tasks processed. Assembling data required for the template...")
+
+			sort.SliceStable(articles, func(i, j int) bool {
+				return articles[i].Number < articles[j].Number
+			})
 
 			data := models.NewsletterData{
 				Title:       source.Metadata.Title,

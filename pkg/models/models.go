@@ -1,6 +1,7 @@
 package models
 
 type Article struct {
+	Number   int    `toml:"number"`
 	URL      string `toml:"url"`
 	Title    string
 	Type     string `toml:"type"`
