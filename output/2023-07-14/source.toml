@@ -1,0 +1,36 @@
+[metadata]
+title = "Newsletter del Viernes"
+no = 5
+date = "14 Julio 2023"
+welcome = """
+La newsletter que salen los viernes, que por fin hoy sale cuando toca.
+<br><br>
+En esta ocasión, es casi un especial sobre lambdas.
+"""
+[[articles]]
+number = 1
+url = "https://github.com/JuanCrg90/Clean-Code-Notes"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Clean Code Notes. Interesante repositorio en el que resumen el libreo de Clean Code. Lectura casi obligatoria."
+
+[[articles]]
+number = 2
+url = "https://tmewett.com/c-tips/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Algunos tips de C pero que pueden ser muy útiles también para tu código de C++."
+
+[[articles]]
+number = 3
+url = "https://medium.com/@mkristofik/modern-c-in-depth-lambdas-part-1-ad6bcebc6022"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Lambdas en C++. Cuidado que hay dos partes mas!"
+
+[[articles]]
+number = 4
+url = "https://www.youtube.com/watch?v=42aOhzhmIpU"
+type = "VIDEO"
+cat = "GENERAL"
+summary = "Y para no variar, un video de lambdas!"

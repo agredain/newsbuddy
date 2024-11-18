@@ -1,0 +1,36 @@
+[metadata]
+title = "Newsletter del Viernes"
+no = 3
+date = "19 Mayo 2023"
+welcome = """
+La newsletter que salen los viernes que hoy una semana mas tarde de lo previsto.
+<br><br>
+Además hoy es la feria, por lo que seguramente nadie lea esto hasta dentro de otra semana, pero es lo que hay.
+"""
+[[articles]]
+number = 1
+url = "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Curso para hacer tus prompts a ChatGPT con mas cabeza."
+
+[[articles]]
+number = 2
+url = "https://github.com/matthew1000/gstreamer-cheat-sheet"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Repositorio con tips insteresantes de GStreamer. Pensando en la gente que ha hecho el curso recientemente. A mi me ha parecido esto canela fina y espero que lo vaya ampliando."
+
+[[articles]]
+number = 3
+url = "https://franiglesias.github.io/hexagonal/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Introduction a lo que es la arquitectura hexagonal, seguramente lo introduzcamos en los proyectos de Libia para ir construyendo de capas inferiores a exteriores y permitir hacer TDD."
+
+[[articles]]
+number = 4
+url = "https://github.com/tylermumford/localstatus"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Como el comando watch pero supervitaminado, creo que puede ser interesante en algunos proyectos para comprobar que procesos tenemos lanzados."

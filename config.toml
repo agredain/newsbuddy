@@ -1,7 +1,7 @@
 [metadata]
 title = "Newsletter del Lunes."
-no = 15
-date = "28 Octubre 2024"
+no = 18
+date = "25 Noviembre 2024"
 welcome = """
 <br><br>
 """
@@ -32,4 +32,3 @@ url = ""
 type = "TEXT"
 cat = "GENERAL"
 summary = "."
-

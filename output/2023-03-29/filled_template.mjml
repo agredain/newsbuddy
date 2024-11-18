@@ -1,0 +1,160 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all padding="0" />
+      <mj-text font-family="sans-serif" />
+      <mj-class name="header" padding="10px 10px 20px 10px" background-color="white" />
+      <mj-class name="header-title" align="left" font-family="monospace" font-size="24pt" font-weight="600" line-height="24pt" padding-bottom="10px" />
+      <mj-class name="header-image" align="right" width="100px" />
+      <mj-class name="header-issue" align="left" font-family="monospace" font-weight="200" />
+      <mj-class name="header-date" align="right" font-family="monospace" font-weight="200" />
+
+      <mj-class name="article" padding-bottom="10px" />
+      <mj-class name="article-title" font-family="monospace" font-weight="400" font-size="14pt" />
+
+      <mj-class name="summary" padding="0 10px 20px 10px" />
+
+      <mj-class name="category-heading" font-family="monospace" font-weight="600" font-size="18pt" />
+
+      <mj-class name="articles" padding="0 10px 0 10px" />
+      <mj-class name="images" padding="0 10px 20px 10px" />
+
+      <mj-class name="footer" padding="10px 10px 10px 10px" />
+
+      <mj-class name="footer-unsub" align="left" />
+      <mj-class name="footer-feedback" align="right" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-container>
+
+      <!-- Header -->
+      <mj-wrapper mj-class="header">
+        <mj-section>
+          <mj-column width="100%" vertical-align="middle">
+            <mj-text mj-class="header-title">Newsletter del Viernes</mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section>
+          <mj-group>
+            <mj-column width="50%">
+              <mj-text mj-class="header-issue">Issue No. 1</mj-text>
+            </mj-column>
+            <mj-column width="50%">
+              <mj-text mj-class="header-date">31 Marzo 2023</mj-text>
+            </mj-column>
+          </mj-group>
+        </mj-section>
+
+        <mj-section>
+          <mj-column>
+            <mj-divider border-width="1px" border-style="dotted" border-color="lightgrey" />
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+      <!-- /Header -->
+
+      <!-- Summary -->
+      <mj-section mj-class="summary">
+        <mj-column>
+          <mj-text>
+            Esta es la primera newsletter que lanzo, y que intento que sea un poco experimento, es tan experimento que el nombre es un p*** truño (acepto sugerencias).
+<br><br>
+La idea es en vez de lanzar un enlace de vez en cuando y que se pierda en el olvido, hacer una recopilación de los mas interesantes y enviarlas una vez cada dos semanas.
+<br><br>
+Espero que sea de utilidad, para alguno al menos.
+
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Images -->
+      <mj-section mj-class="images">
+        <mj-column>
+          
+        </mj-column>
+      </mj-section>
+      
+      <mj-section>
+        <mj-column>
+          <mj-text>
+            <h2>Artículos</h2>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Articles -->
+			<mj-wrapper mj-class="articles">
+				
+          
+					<mj-section mj-class="article">
+						<mj-column>
+							
+              <mj-image width="500px" src="https://pbs.twimg.com/media/FqPN1t0XsAAXP40?format=jpg&name=900x900" />
+              
+							<mj-text mj-class="article-summary">Imagen chula con algunos patrones de diseño, en el que puedes ver en UML las relaciones entre ellos.</mj-text>
+						</mj-column>
+					</mj-section>
+				  
+        
+          
+					<mj-section mj-class="article">
+						<mj-column>
+							
+              <mj-text mj-class="article-title"><a href="https://sourcemaking.com/design_patterns">Design Patterns</a></mj-text>
+              
+							<mj-text mj-class="article-summary">Siguiendo con los patrones de diseño, sitio web en el que te explican los diferentes patrones de diseño, con ejemplos en diferentes lenguajes. También hay un apartado de antipatrones, refactorización y para aprender UML.</mj-text>
+						</mj-column>
+					</mj-section>
+				  
+        
+          
+					<mj-section mj-class="article">
+						<mj-column>
+							
+              <mj-text mj-class="article-title"><a href="https://dev.to/xlmriosx/getting-started-with-ansible-an-introduction-to-automation-configuration-management-and-orchestration-1h95">Getting Started with Ansible: An Introduction to Automation, Configuration Management, and Orchestration - DEV Community</a></mj-text>
+              
+							<mj-text mj-class="article-summary">Introducción sobre la herramienta Ansible, para aprovisionamiento de máquinas a través de SSH</mj-text>
+						</mj-column>
+					</mj-section>
+				  
+        
+          
+					<mj-section mj-class="article">
+						<mj-column>
+							
+              <mj-text mj-class="article-title"><a href="https://towardsdatascience.com/12-python-decorators-to-take-your-code-to-the-next-level-a910a1ab3e99">10 Python Decorators To Take Your Code To The Next Level | by Ahmed Besbes | Towards Data Science</a></mj-text>
+              
+							<mj-text mj-class="article-summary">Doce decoradores de Python que pueden ser muy útiles en muchos casos</mj-text>
+						</mj-column>
+					</mj-section>
+				  
+        
+
+        
+      </mj-wrapper>
+
+      <!-- Footer -->
+      <mj-wrapper mj-class="footer">
+        <mj-section>
+          <mj-column>
+            <mj-divider border-width="1px" border-style="dotted" border-color="lightgrey" padding-bottom="5px" />
+          </mj-column>
+        </mj-section>
+
+        <mj-section>
+          <mj-group>
+            <mj-column width="50%">
+              <mj-text mj-class="footer-unsub">Not interested? <a href="mailto:daniel.agredano@gtd.eu?Subject=iX%20Newsletter%20--%20Unsubscribe">Unsubscribe</a></mj-text>
+            </mj-column>
+            <mj-column width="50%">
+              <mj-text mj-class="footer-feedback"><a href="mailto:daniel.agredano@gtd.eu?Subject=iX%20Newsletter%20--%20Feedback">Feedback</a></mj-text>
+            </mj-column>
+          </mj-group>
+        </mj-section>
+      </mj-wrapper>
+
+    </mj-container>
+  </mj-body>
+</mjml>

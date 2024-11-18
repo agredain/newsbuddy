@@ -1,0 +1,36 @@
+[metadata]
+title = "Newsletter del Viernes"
+no = 7
+date = "15 Septiembre 2023"
+welcome = """
+La newsletter que salen los viernes, o algunos viernes.
+<br><br>
+Ya de vuelta de vacaciones, retomamos la newsletter con fuerza y enlazo algunos artículos que me han parecido interesantes.
+"""
+[[articles]]
+number = 1
+url = "https://github.com/max-niederman/ttyper"
+type = "TEXT"
+cat = "GENERAL"
+summary = "¿Alguna vez habéis visto herramientas que os enseña a escribir a maquina? Pues aquí tenéis una en Rust. La diferencia está en que esta además, te pone entrenamientos en nuestros lenguajes favoritos, c++, python, Qt..."
+
+[[articles]]
+number = 2
+url = "https://mailchi.mp/bonillaware/historia-lenguaje-c"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Artículo de la newsletter de la Bonilista sobre la historia del lenguaje C. Por cierto aconsejo apuntarde a la Bonilista, es una newsletter muy interesante y además si que cumple con la periodicidad."
+
+[[articles]]
+number = 3
+url = "https://www.kdab.com/qobject_ownership_propagate_const/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Artículo de Qt en el que explica un poco el tema del ownership en Qt y alguna cosilla mas."
+
+[[articles]]
+number = 4
+url = "https://martinheinz.dev/blog/90"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Dictionary Dispatch Pattern in Python. Patrón de diseño que permite hacer un sistema de dispatcher en python usando diccionarios."

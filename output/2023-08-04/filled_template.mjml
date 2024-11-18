@@ -1,0 +1,165 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all padding="0" />
+      <mj-text font-family="sans-serif" />
+      <mj-class name="header" padding="10px 10px 20px 10px" background-color="white" />
+      <mj-class name="header-title" align="left" font-family="monospace" font-size="24pt" font-weight="600" line-height="24pt" padding-bottom="10px" />
+      <mj-class name="header-image" align="right" width="100px" />
+      <mj-class name="header-issue" align="left" font-family="monospace" font-weight="200" />
+      <mj-class name="header-date" align="right" font-family="monospace" font-weight="200" />
+
+      <mj-class name="article" padding-bottom="10px" />
+      <mj-class name="article-title" font-family="monospace" font-weight="400" font-size="14pt" />
+
+      <mj-class name="summary" padding="0 10px 20px 10px" />
+
+      <mj-class name="category-heading" font-family="monospace" font-weight="600" font-size="18pt" />
+
+      <mj-class name="articles" padding="0 10px 0 10px" />
+      <mj-class name="images" padding="0 10px 20px 10px" />
+
+      <mj-class name="footer" padding="10px 10px 10px 10px" />
+
+      <mj-class name="footer-unsub" align="left" />
+      <mj-class name="footer-feedback" align="right" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-container>
+
+      <!-- Header -->
+      <mj-wrapper mj-class="header">
+        <mj-section>
+          <mj-column width="100%" vertical-align="middle">
+            <mj-text mj-class="header-title">Newsletter del Viernes</mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section>
+          <mj-group>
+            <mj-column width="50%">
+              <mj-text mj-class="header-issue">Issue No. 6</mj-text>
+            </mj-column>
+            <mj-column width="50%">
+              <mj-text mj-class="header-date">4 Agosto 2023</mj-text>
+            </mj-column>
+          </mj-group>
+        </mj-section>
+
+        <mj-section>
+          <mj-column>
+            <mj-divider border-width="1px" border-style="dotted" border-color="lightgrey" />
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+      <!-- /Header -->
+
+      <!-- Summary -->
+      <mj-section mj-class="summary">
+        <mj-column>
+          <mj-text>
+            La newsletter que salen los viernes, ya de vacaciones.
+<br><br>
+Quiero aprovechar el momento para haceros algunas preguntas al respecto
+<br><br>
+<lu>
+<li>¿Está siendo esta newsletter de utilidad o va directamente a la basura? ¿queréis seguir recibiendo en agosto o hacemos parada técnica?</li>
+<li>¿El número de artículos está bien? ¿queréis mas artículos o menos? ¿echáis en falta algún tema?</li>
+</lu>
+<br><br>
+No dudéis en contestarme y contarme cualquier cosa. Todo feedback es bienvenido.
+
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Images -->
+      <mj-section mj-class="images">
+        <mj-column>
+          
+        </mj-column>
+      </mj-section>
+      
+      <mj-section>
+        <mj-column>
+          <mj-text>
+            <h2>Artículos</h2>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Articles -->
+			<mj-wrapper mj-class="articles">
+				
+          
+					<mj-section mj-class="article">
+						<mj-column>
+							
+              <mj-text mj-class="article-title"><a href="https://linuxcommandlibrary.com/">Basics | Cheat sheets | Linux Command Library</a></mj-text>
+              
+							<mj-text mj-class="article-summary">Web con tips de commandos de consola, algunos muy básicos otros muy útiles.</mj-text>
+						</mj-column>
+					</mj-section>
+				  
+        
+          
+					<mj-section mj-class="article">
+						<mj-column>
+							
+              <mj-text mj-class="article-title"><a href="https://pravash-techie.medium.com/python-unlocking-the-power-of-structural-pattern-matching-7da2a1d1b374">Python: Unlocking the Power of Structural Pattern Matching | by Pravash | Medium</a></mj-text>
+              
+							<mj-text mj-class="article-summary">Gestión de opciones con switch en python que me ha dejado completamente roto, ni idea que se podía hacer esto.</mj-text>
+						</mj-column>
+					</mj-section>
+				  
+        
+          
+					<mj-section mj-class="article">
+						<mj-column>
+							
+              <mj-text mj-class="article-title"><a href="https://github.com/Textualize/trogon">GitHub - Textualize/trogon: Easily turn your Click CLI into a powerful terminal application</a></mj-text>
+              
+							<mj-text mj-class="article-summary">Trogon, convierte cualquier aplicación de python que usa click en una aplicación de escritorio.</mj-text>
+						</mj-column>
+					</mj-section>
+				  
+        
+          
+					<mj-section mj-class="article">
+						<mj-column>
+							
+              <mj-text mj-class="article-title"><a href="https://www.youtube.com/watch?app=desktop&v=un6ZyFkqFKo">Go Programming – Golang Course with Bonus Projects - YouTube [video] </a></mj-text>
+              
+							<mj-text mj-class="article-summary">Y por si alguien quiere aprender un nuevo lenguaje de programación, supercurso de 9 horas para aprender Golang.</mj-text>
+						</mj-column>
+					</mj-section>
+				  
+        
+
+        
+      </mj-wrapper>
+
+      <!-- Footer -->
+      <mj-wrapper mj-class="footer">
+        <mj-section>
+          <mj-column>
+            <mj-divider border-width="1px" border-style="dotted" border-color="lightgrey" padding-bottom="5px" />
+          </mj-column>
+        </mj-section>
+
+        <mj-section>
+          <mj-group>
+            <mj-column width="50%">
+              <mj-text mj-class="footer-unsub">Not interested? <a href="mailto:daniel.agredano@gtd.eu?Subject=iX%20Newsletter%20--%20Unsubscribe">Unsubscribe</a></mj-text>
+            </mj-column>
+            <mj-column width="50%">
+              <mj-text mj-class="footer-feedback"><a href="mailto:daniel.agredano@gtd.eu?Subject=iX%20Newsletter%20--%20Feedback">Feedback</a></mj-text>
+            </mj-column>
+          </mj-group>
+        </mj-section>
+      </mj-wrapper>
+
+    </mj-container>
+  </mj-body>
+</mjml>

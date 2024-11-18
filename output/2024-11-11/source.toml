@@ -1,0 +1,35 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 16
+date = "11 Noviembre 2024"
+welcome = """
+Otra edición con menos cosas concretas y duras, mas de soft-skills, bueno, menos la última.
+<br>
+"""
+[[articles]]
+number = 1
+url = "https://blog.rubenfa.me/2018-01-24-ojala-hubiese-tenido-un-mentor-la-charla-episodio-i"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Artículo que me pareció bastante interesante, echadle un vistazo y me contáis que tal."
+
+[[articles]]
+number = 2
+url = "https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Otro también que cuenta cosas que creo que puede ser interesantes. No comento nada mas porque creo que el título es autoexplicativo."
+
+[[articles]]
+number = 3
+url = "https://alex-omeyer.medium.com/the-4-types-of-tech-debt-with-examples-and-fixes-765fe9dbf73c"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Siempre se habla de la deuda técnica, en sentido de cosas que se hacen mal por ir corriendo. Aqui te hablan de dicha deuda técnica pero profundiza el origen del mismo, además de comentar otros tipos de deudas que no viene de escribir mal código en si."
+
+[[articles]]
+number = 4
+url = "https://www.youtube.com/watch?v=AJDbu1kaj5g"
+type = "VIDEO"
+cat = "GENERAL"
+summary = "Variable Monitoring with Declarative Interfaces, de Nikolaj Fogh. Esta gente se monta un sistema de monitoreo de variables de forma programática muy interesante. Se puede aprender mucho de este vídeo, creo que es un claro ejemplo de como montanto bien las cosas desde el principio obtienes un framework que te permite hacer las cosas más facilmente."

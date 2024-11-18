@@ -1,0 +1,43 @@
+[metadata]
+title = "Newsletter del Viernes"
+no = 6
+date = "4 Agosto 2023"
+welcome = """
+La newsletter que salen los viernes, ya de vacaciones.
+<br><br>
+Quiero aprovechar el momento para haceros algunas preguntas al respecto
+<br><br>
+<lu>
+<li>¿Está siendo esta newsletter de utilidad o va directamente a la basura? ¿queréis seguir recibiendo en agosto o hacemos parada técnica?</li>
+<li>¿El número de artículos está bien? ¿queréis mas artículos o menos? ¿echáis en falta algún tema?</li>
+</lu>
+<br><br>
+No dudéis en contestarme y contarme cualquier cosa. Todo feedback es bienvenido.
+"""
+[[articles]]
+number = 1
+url = "https://linuxcommandlibrary.com/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Web con tips de commandos de consola, algunos muy básicos otros muy útiles."
+
+[[articles]]
+number = 2
+url = "https://pravash-techie.medium.com/python-unlocking-the-power-of-structural-pattern-matching-7da2a1d1b374"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Gestión de opciones con switch en python que me ha dejado completamente roto, ni idea que se podía hacer esto."
+
+[[articles]]
+number = 3
+url = "https://github.com/Textualize/trogon"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Trogon, convierte cualquier aplicación de python que usa click en una aplicación de escritorio."
+
+[[articles]]
+number = 4
+url = "https://www.youtube.com/watch?app=desktop&v=un6ZyFkqFKo"
+type = "VIDEO"
+cat = "GENERAL"
+summary = "Y por si alguien quiere aprender un nuevo lenguaje de programación, supercurso de 9 horas para aprender Golang."

@@ -1,0 +1,38 @@
+[metadata]
+title = "Newsletter del Viernes"
+no = 1
+date = "31 Marzo 2023"
+welcome = """
+Esta es la primera newsletter que lanzo, y que intento que sea un poco experimento, es tan experimento que el nombre es un p*** truño (acepto sugerencias).
+<br><br>
+La idea es en vez de lanzar un enlace de vez en cuando y que se pierda en el olvido, hacer una recopilación de los mas interesantes y enviarlas una vez cada dos semanas.
+<br><br>
+Espero que sea de utilidad, para alguno al menos.
+"""
+[[articles]]
+number = 1
+url = "https://pbs.twimg.com/media/FqPN1t0XsAAXP40?format=jpg&name=900x900"
+type = "IMAGE"
+cat = "GENERAL"
+summary = "Imagen chula con algunos patrones de diseño, en el que puedes ver en UML las relaciones entre ellos."
+
+[[articles]]
+number = 2
+url = "https://sourcemaking.com/design_patterns"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Siguiendo con los patrones de diseño, sitio web en el que te explican los diferentes patrones de diseño, con ejemplos en diferentes lenguajes. También hay un apartado de antipatrones, refactorización y para aprender UML."
+
+[[articles]]
+number = 3
+url = "https://dev.to/xlmriosx/getting-started-with-ansible-an-introduction-to-automation-configuration-management-and-orchestration-1h95"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Introducción sobre la herramienta Ansible, para aprovisionamiento de máquinas a través de SSH"
+
+[[articles]]
+number = 4
+url = "https://towardsdatascience.com/12-python-decorators-to-take-your-code-to-the-next-level-a910a1ab3e99"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Doce decoradores de Python que pueden ser muy útiles en muchos casos"

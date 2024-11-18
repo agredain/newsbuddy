@@ -1,0 +1,35 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 17
+date = "18 Noviembre 2024"
+welcome = """
+Normalmente preparo esto el viernes para lanzarlo el lunes pero me he encontrado con que no tenía nada hecho, un **** desastre. Menos mal que tengo material en la recámara.
+<br>
+"""
+[[articles]]
+number = 1
+url = "https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust"
+type = "TEXT"
+cat = "GENERAL"
+summary = "How to learn modern Rust. Repositorio de Github con material para ayudarte a aprender este no tan nuevo ya lenguaje."
+
+[[articles]]
+number = 2
+url = "https://github.com/mainmatter/100-exercises-to-learn-rust"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Learn Rust, one exercise at a time. Complementando al repositorio anterior, para la gente que prefiere remangarse."
+
+[[articles]]
+number = 3
+url = "https://www.asbru-cm.net/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Para los que piensan que el MobaXTerm es lo mas pero les gusta aún mas Linux, aparece esta aplicación que es casi un clon, pero que puedes usarlo en tu distro Linux."
+
+[[articles]]
+number = 4
+url = "https://medium.com/@aserdargun/introduction-to-linux-f20e68de3e59"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Pequeño artículo en el que te explican Linux en detalle y al grano."

@@ -1,0 +1,36 @@
+[metadata]
+title = "Newsletter del Viernes"
+no = 4
+date = "2 Junio 2023"
+welcome = """
+La newsletter que salen los viernes, que cada vez va mas con retraso...
+<br><br>
+En esta ocasión, me ha salido bastante audiovisual, espero que lo disfrutéis.
+"""
+[[articles]]
+number = 3
+url = "https://www.youtube.com/@CoffeeBeforeArch"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Recursos de Programación C++."
+
+[[articles]]
+number = 4
+url = "https://www.youtube.com/@MikeShah"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Mas recursos de Programación C++."
+
+[[articles]]
+number = 2
+url = "https://www.webreactiva.com/podcast/los-mejores-podcast-de-programacion-y-tecnologia"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Los mejores podcast de programación y tecnología en español. Muchos de ellos muy interesantes."
+
+[[articles]]
+number = 2
+url = "https://www.youtube.com/watch?v=xhTINjoihrk"
+type = "VIDEO"
+cat = "GENERAL"
+summary = "Mejores prácticas que programadores de C++ pueden seguir. Video muy ilustrativo."

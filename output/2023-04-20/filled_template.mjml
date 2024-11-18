@@ -1,0 +1,158 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all padding="0" />
+      <mj-text font-family="sans-serif" />
+      <mj-class name="header" padding="10px 10px 20px 10px" background-color="white" />
+      <mj-class name="header-title" align="left" font-family="monospace" font-size="24pt" font-weight="600" line-height="24pt" padding-bottom="10px" />
+      <mj-class name="header-image" align="right" width="100px" />
+      <mj-class name="header-issue" align="left" font-family="monospace" font-weight="200" />
+      <mj-class name="header-date" align="right" font-family="monospace" font-weight="200" />
+
+      <mj-class name="article" padding-bottom="10px" />
+      <mj-class name="article-title" font-family="monospace" font-weight="400" font-size="14pt" />
+
+      <mj-class name="summary" padding="0 10px 20px 10px" />
+
+      <mj-class name="category-heading" font-family="monospace" font-weight="600" font-size="18pt" />
+
+      <mj-class name="articles" padding="0 10px 0 10px" />
+      <mj-class name="images" padding="0 10px 20px 10px" />
+
+      <mj-class name="footer" padding="10px 10px 10px 10px" />
+
+      <mj-class name="footer-unsub" align="left" />
+      <mj-class name="footer-feedback" align="right" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-container>
+
+      <!-- Header -->
+      <mj-wrapper mj-class="header">
+        <mj-section>
+          <mj-column width="100%" vertical-align="middle">
+            <mj-text mj-class="header-title">Newsletter del Viernes</mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section>
+          <mj-group>
+            <mj-column width="50%">
+              <mj-text mj-class="header-issue">Issue No. 2</mj-text>
+            </mj-column>
+            <mj-column width="50%">
+              <mj-text mj-class="header-date">21 Abril 2023</mj-text>
+            </mj-column>
+          </mj-group>
+        </mj-section>
+
+        <mj-section>
+          <mj-column>
+            <mj-divider border-width="1px" border-style="dotted" border-color="lightgrey" />
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+      <!-- /Header -->
+
+      <!-- Summary -->
+      <mj-section mj-class="summary">
+        <mj-column>
+          <mj-text>
+            Había dicho que cada dos semanas y ya he roto mi primera promesa, vamos bien. Espero ser mas regular con las próximas. 
+<br><br>
+Parece ser que la primera ha tenido una buena recepción, espero que esta segunda sea muucho mejor.
+
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Images -->
+      <mj-section mj-class="images">
+        <mj-column>
+          
+        </mj-column>
+      </mj-section>
+      
+      <mj-section>
+        <mj-column>
+          <mj-text>
+            <h2>Artículos</h2>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Articles -->
+			<mj-wrapper mj-class="articles">
+				
+          
+					<mj-section mj-class="article">
+						<mj-column>
+							
+              <mj-text mj-class="article-title"><a href="https://refactoring.guru">Refactoring and Design Patterns</a></mj-text>
+              
+							<mj-text mj-class="article-summary">Mas patrones de diseño, esta vez en castellano. No es tan completo como el anterior pero al menos está en el idioma del Quijote.</mj-text>
+						</mj-column>
+					</mj-section>
+				  
+        
+          
+					<mj-section mj-class="article">
+						<mj-column>
+							
+              <mj-text mj-class="article-title"><a href="https://blog.bytebytego.com/i/113419155/tcp-vs-udp-differences-you-should-know">EP54: Cache Systems Every Developer Should Know</a></mj-text>
+              
+							<mj-text mj-class="article-summary">Principales diferencias entre el protocolo TCP y UDP. Ayuda bastante a entender como funciona estos protocolos y sobre todo como funciona las aplicaciones basadas en ellos.</mj-text>
+						</mj-column>
+					</mj-section>
+				  
+        
+          
+					<mj-section mj-class="article">
+						<mj-column>
+							
+              <mj-text mj-class="article-title"><a href="https://dev.to/dhanu0510/how-to-configure-c-code-formatting-in-visual-studio-code-4d5m">How to Configure C++ Code Formatting in Visual Studio Code - DEV Community</a></mj-text>
+              
+							<mj-text mj-class="article-summary">Algo mas accionable, cómo configurar el VSC para que le de formato a tus ficheros de C++</mj-text>
+						</mj-column>
+					</mj-section>
+				  
+        
+          
+					<mj-section mj-class="article">
+						<mj-column>
+							
+              <mj-text mj-class="article-title"><a href="https://python.plainenglish.io/10-python-decorators-to-take-your-code-to-the-next-level-887eac41e2f4">10 Python Decorators to Take Your Code to the Next Level | by Ishaan Gupta | Mar, 2023 | Python in Plain English</a></mj-text>
+              
+							<mj-text mj-class="article-summary">Y mas decodadores de python, para no variar</mj-text>
+						</mj-column>
+					</mj-section>
+				  
+        
+
+        
+      </mj-wrapper>
+
+      <!-- Footer -->
+      <mj-wrapper mj-class="footer">
+        <mj-section>
+          <mj-column>
+            <mj-divider border-width="1px" border-style="dotted" border-color="lightgrey" padding-bottom="5px" />
+          </mj-column>
+        </mj-section>
+
+        <mj-section>
+          <mj-group>
+            <mj-column width="50%">
+              <mj-text mj-class="footer-unsub">Not interested? <a href="mailto:daniel.agredano@gtd.eu?Subject=iX%20Newsletter%20--%20Unsubscribe">Unsubscribe</a></mj-text>
+            </mj-column>
+            <mj-column width="50%">
+              <mj-text mj-class="footer-feedback"><a href="mailto:daniel.agredano@gtd.eu?Subject=iX%20Newsletter%20--%20Feedback">Feedback</a></mj-text>
+            </mj-column>
+          </mj-group>
+        </mj-section>
+      </mj-wrapper>
+
+    </mj-container>
+  </mj-body>
+</mjml>

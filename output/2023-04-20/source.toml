@@ -1,0 +1,36 @@
+[metadata]
+title = "Newsletter del Viernes"
+no = 2
+date = "21 Abril 2023"
+welcome = """
+Había dicho que cada dos semanas y ya he roto mi primera promesa, vamos bien. Espero ser mas regular con las próximas. 
+<br><br>
+Parece ser que la primera ha tenido una buena recepción, espero que esta segunda sea muucho mejor.
+"""
+[[articles]]
+number = 1
+url = "https://refactoring.guru"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Mas patrones de diseño, esta vez en castellano. No es tan completo como el anterior pero al menos está en el idioma del Quijote."
+
+[[articles]]
+number = 2
+url = "https://blog.bytebytego.com/i/113419155/tcp-vs-udp-differences-you-should-know"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Principales diferencias entre el protocolo TCP y UDP. Ayuda bastante a entender como funciona estos protocolos y sobre todo como funciona las aplicaciones basadas en ellos."
+
+[[articles]]
+number = 3
+url = "https://dev.to/dhanu0510/how-to-configure-c-code-formatting-in-visual-studio-code-4d5m"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Algo mas accionable, cómo configurar el VSC para que le de formato a tus ficheros de C++"
+
+[[articles]]
+number = 4
+url = "https://python.plainenglish.io/10-python-decorators-to-take-your-code-to-the-next-level-887eac41e2f4"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Y mas decodadores de python, para no variar"
