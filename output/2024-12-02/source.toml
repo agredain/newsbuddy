@@ -1,0 +1,65 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 18
+date = "2 Diciembre 2024"
+welcome = """
+Se que me he saltado un par de semanas, pero aquí estoy de nuevo, pido mil disculpas si alguien esperaba la newsletter.
+<br><br>
+En esta edición, les traigo un texto que no soy capaz de enlazar como link, pero lo añado igualmente aqui en la descripción.
+<br><br>
+Creo que una buena forma de como plantear el desarrollo, que alguna vez he comentado o intentado expresar pero no he verbalizado correctamente. Espero que citándo el texto ayude a aclarar lo que quiero decir.
+<br><br>
+<i>
+Si aprendes a separar el QUÉ del CÓMO serás del 1% de los desarrolladores que sabe hacer esto. Y esto te va a convertir en una persona mucho más valiosa dentro del desarrollo de software.
+</i><br><br><i>
+El QUÉ es aquella parte del código donde se toman las decisiones:
+</i>
+<ul>
+<li><i>Hay QUÉ leer de la persistencia</i></li>
+<li><i>Hay QUÉ guardar en la persistencia</i></li>
+<li><i>Hay QUÉ enviar un email al usuario</i></li>
+<li><i>Hay QUÉ mostrar un mensaje al usuario</i></li>
+</ul>
+<i>
+El CÓMO es lo que está más cercano a lo tangible que es CÓMO vas a realizar eso, normalmente usando librerías.
+</i>
+<ul>
+<li><i>Lees de persistencia realizando una petición HTTP con Axios</i></li>
+<li><i>Guardas en persistencia usando este o aquel ORM (Entity Framework u otro)</i></li>
+<li><i>Envías un email al usuario usando EmailJS</i></li>
+<li><i>Muestras un mensaje al usuario usando React</i></li>
+</ul>
+<i>
+Esta es la verdadera clave de escribir software escalable y fácil de mantener, aprender a separar el QUÉ del CÓMO.
+</i><br><br><i>
+De todo el código QUÉ hace algo, podrás escribir test unitarios sin problema. Y el código CÓMO será fácilmente reemplazable sin drama.
+</i>
+<br>
+"""
+[[articles]]
+number = 1
+url = "https://www.codemotion.com/magazine/es/inteligencia-artificial/de-programadores-junior-a-senior-con-chatgpt/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Artículo sobre como mejorar como programadores."
+
+[[articles]]
+number = 2
+url = "https://www.webreactiva.com/go/asistentes-ia/02-romeo-lima-papa"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Siguiendo el tema de IAs, aqui para ayudarte a hacer tu roadmap."
+
+[[articles]]
+number = 3
+url = "https://deors.wordpress.com/2024/06/21/experiencia-del-desarrollador-opensouthcode/"
+type = "VIDEO"
+cat = "GENERAL"
+summary = "Qué es la Experiencia del Desarrollador y por qué nos debería importar en OpenSouthCode 2024 – dr. macphail's trance."
+
+[[articles]]
+number = 4
+url = "https://ci3.googleusercontent.com/meips/ADKq_NaaQwu36ACOuLI7KJeDu5kUkx7joUC9wAIWsBj6FZfCi_YRQryx0prxhsA_5hcfisIDcTTL_i3ZxDcOHVNWlHJZQBWYi3CM5YAmsOydJAPAjinPu75g_qqcuSr2bbgx7gIqimzj2_plIoElTfE2vnAJODqYoCY9YcmC3BGQ2Y1JhH__a3xqyuIp5OHs_qy4zWorUJ1lPhJKz6Jfw7YjNJf8j3UU1LWXuajt_lmNCV6I2lKlmAelLWbMDPTn-BGqHjkReYm0Ag4bnXEXtIYbW2hNsu6jvsAzDC2oHVmRVYFRN0zkmoJpiYzZE2I=s0-d-e1-ft#https://substackcdn.com/image/fetch/w_2912,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a472291-fb46-4f86-89c6-5e4270099622_4800x4800.png"
+type = "IMAGE"
+cat = "GENERAL"
+summary = "Meme que no pude evitar de acordarme del equipo de C4i-MAN, pero que al final es el día a dia de mucho de vosotros."

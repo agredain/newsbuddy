@@ -1,0 +1,37 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 19
+date = "16 Diciembre 2024"
+welcome = """
+Buenas a todos.
+<br><br>
+Diría que esta es la edición de navidad, no es un excitante excepto porque no me vais a escuchar el pelo hasta mediados de Enero. ¡Un saludo y felices fiestas!
+<br><br>
+"""
+[[articles]]
+number = 1
+url = "https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines"
+type = "TEXT"
+cat = "GENERAL"
+summary = "C++ Core Guidelines. Guías para escribir mejor en C++"
+
+[[articles]]
+number = 2
+url = "https://www.educative.io/blog/cpp-memory-management"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Gestión de memoria en C++, en que consiste y típicas pifias que hacemos todos."
+
+[[articles]]
+number = 3
+url = "https://www.webreactiva.com/blog/como-ganar-experiencia-developer-junior"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Artículo para los junior y los no tan junior, espero que os sea útil."
+
+[[articles]]
+number = 4
+url = "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab6a0262-1b10-4463-9845-5774c21dc1b6_1280x1585.gif"
+type = "IMAGE"
+cat = "GENERAL"
+summary = "Top de los 6 patrones de diseño Multithreading, en un pequeño diagrama."
