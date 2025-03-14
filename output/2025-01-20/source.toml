@@ -1,0 +1,35 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 21
+date = "20 Enero 2025"
+welcome = """
+Nuevo listado de artículos de interés, erspero que lo disfrutéis. Si no, hay un bonito unsubscribe abajo. Un saludo!
+<br><br>
+"""
+[[articles]]
+number = 1
+url = "https://modal.com/gpu-glossary"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Glosario sobre el mundo GPU. No lo he podido bichear en profundidad pero creo que es un poquito mas fumable que el curso de Udemy, algunos saben de que hablo."
+
+[[articles]]
+number = 2
+url = "https://dzone.com/articles/using-event-driven-ansible-to-monitor-your-web-app?edition=954907"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Artículo en el que te explica como usar Ansible para gestionar eventos sobre servidores, como que un servicio esté caido o cualquier otra cosa. Un ejemplo sería reiniciar una Jetson si detecta que no hace ping durante 10 segundos."
+
+[[articles]]
+number = 3
+url = "https://github.com/shobrook/termite"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Aplicación chula de terminal que te genera TUIs de forma generativa, indicando solamente que es lo que quieres."
+
+[[articles]]
+number = 4
+url = "https://www.sandordargo.com/blog/2024/11/27/non-movable-classes"
+type = "TEXT"
+cat = "GENERAL"
+summary = "En C++ los elementos se pueden copiar o mover (si alguien no le suena este segundo concepto que hable conmigo o con Juanmi, que el viernes tuvimos charla de esto). En algunos casos, no queremos que existan copias del mismo o que no se puedan mover, aqui te explican como."

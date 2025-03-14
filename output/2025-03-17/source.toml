@@ -1,0 +1,46 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 23
+date = "17 Marzo 2025"
+welcome = """
+¡Hola a todos!
+
+Lamento haber estado ausente y no haber publicado la newsletter durante un tiempo. He estado trabajando intensamente en el proyecto SIGMA, pero ya estoy de vuelta con más contenido interesante.
+<br><br>
+En esta edición, encontrarán:
+1. Introducción al modo agente de GitHub Copilot, una nueva funcionalidad que mejora la experiencia de desarrollo.
+2. Instrucciones personalizadas de GitHub Copilot para mejorar la productividad y personalización del asistente de codificación.
+3. Charla del OpenSouthCode en el que se habla sobre como hacer testing sin morir en el intento, en muy alto nivel.
+4. Consejos para normalizar observabilidad en servicios, intentando estandarizar el tema.
+<br><br>
+¡Espero que disfruten de la lectura!
+<br><br>
+Postdata: Esta entrada y las descripciones las he generado usando el agente de GitHub Copilot.
+"""
+[[articles]]
+number = 1
+url = "https://code.visualstudio.com/blogs/2025/02/24/introducing-copilot-agent-mode"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Introducción al modo agente de GitHub Copilot, una nueva funcionalidad que mejora la experiencia de desarrollo."
+
+[[articles]]
+number = 2
+url = "https://bartwullems.blogspot.com/2025/02/github-copilot-custom-instructions.html"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Instrucciones personalizadas de GitHub Copilot para mejorar la productividad y personalización del asistente de codificación."
+
+[[articles]]
+number = 3
+url = "https://youtube.com/watch?v=6NVKZJuWhns&si=7KPSr4nyKdIVnbG7"
+type = "VIDEO"
+cat = "GENERAL"
+summary = "Charla del OpenSouthCode en el que se habla sobre como hacer testing sin morir en el intento, en muy alto nivel."
+
+[[articles]]
+number = 4
+url = "https://youtube.com/watch?v=eLSKzGzS5rY&si=UxBW93tvJQHQmGCq"
+type = "VIDEO"
+cat = "GENERAL"
+summary = "Consejos para normalizar observabilidad en servicios, intentando estandarizar el tema."

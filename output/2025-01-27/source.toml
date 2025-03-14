@@ -1,0 +1,37 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 22
+date = "27 Enero 2025"
+welcome = """
+He estado a punto de no publicar hoy porque no pude preparar nada, pero anoche me entraron varios links y proyectos interesantes. Por cierto, me encantaría saber si alguien lee estas entradillas, yo sinceramente no las leería o muy por encima, plan efimero.
+<br><br>
+Menos mal que sois buena gente y si me leéis.
+<br><br>
+"""
+[[articles]]
+number = 1
+url = "https://github.com/AlmuHS/Malas_PracticasC_CPP"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Repositorio de Almu Garcia, profesora en Huelva, con un listado de malas prácticas en C y C++, algunas creo que son obvias y otras son métodos que dudo que usemos. Pero hay algunas que si y creo que es interesante conocerlas."
+
+[[articles]]
+number = 2
+url = "https://mshibanami.github.io/GitHubTrendingRSS/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Proyecto que te coge los Trendings de Github y te los formatea a RSS para usarlo en tus feeds. A mi me acaba de abrir un mundo nuevo."
+
+[[articles]]
+number = 3
+url = "https://www.jmgaguilera.com/rust_facil/introduccion.html"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Rust en español fácil. Lo de facil supongo que será que está en español y que el vocabulario es para niños de primaria, no que Rust lo sea."
+
+[[articles]]
+number = 4
+url = "https://youtube.com/watch?v=Qch0PIwLt8Y&si=jUW4rWcf62C56Hgz"
+type = "VIDEO"
+cat = "GENERAL"
+summary = "Charla de la última OpenSouthCode hablando sobre producto, las diferentes formas de afrontar su desarrollo y varias empresas conococidas en el que se analiza su estilo de desarrollo de producto."

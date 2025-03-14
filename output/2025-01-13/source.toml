@@ -1,0 +1,35 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 20
+date = "13 Enero 2025"
+welcome = """
+De vuelta de las vacaciones navideñas, aqui traigo un listado de artículos que espero que cojáis con fuerza.
+<br><br>
+"""
+[[articles]]
+number = 1
+url = "https://www.opensouthcode.org/conferences/opensouthcode2025"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Póximo evento OpenSouthCode 2025. Espero este año poder asistir. Además están los vídeos del evento del 2024."
+
+[[articles]]
+number = 2
+url = "https://blog.bytebytego.com/p/understanding-message-queues"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Explicación de algunos patrones de mensages. Aqui se puede ver patrones usados en DDS en Box-AI y en C4i-MAN con el Bus de eventos."
+
+[[articles]]
+number = 3
+url = "https://anvaka.github.io/map-of-github/#2/0/0"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Mapa de Github, en el que se puede navegar como islas y territorios en los repositorios de Github."
+
+[[articles]]
+number = 4
+url = "https://8grams.medium.com/lxd-lxc-linux-container-to-rule-them-all-5f488322d667"
+type = "TEXT"
+cat = "GENERAL"
+summary = "LXD & LXC: Linux Container to rule them all. Artículo explicando todo el tema de los contenedores LXD y LXC en linux, un poco como docker pero mejor."
