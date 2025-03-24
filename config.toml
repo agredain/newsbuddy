@@ -1,10 +1,14 @@
 [metadata]
 title = "Newsletter del Lunes."
-no = 20
-date = "13 Enero 2025"
+no = 25
+date = "31 Marzo 2025"
 welcome = """
-<br><br>
+Buenas a todos,
+</br></br>
+</br></br>
+Poco mas, ya me contaréis. Un saludo!
 """
+
 [[articles]]
 number = 1
 url = ""

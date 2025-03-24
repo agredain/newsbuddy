@@ -1,0 +1,41 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 24
+date = "24 Marzo 2025"
+welcome = """
+Buenas a todos,
+</br></br>
+Seguimos aqui pasando algunas cosillas, en esta ocasión creo que es bastante mas suave el tema y de echar un vistazo.
+</br></br>
+El mas accionable diría que es el primero y el tercero, en cambio es interesante el segundo de cara a hacer APIs, no solamente RESTful.
+</br></br>
+Poco mas, ya me contaréis. Un saludo!
+"""
+
+[[articles]]
+number = 1
+url = "https://ghuntley.com/stdlib/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Entrada de como se debería utilizar mejor Cursor AI."
+
+[[articles]]
+number = 2
+url = "https://zuplo.com/blog/2025/03/12/common-pitfalls-in-restful-api-design"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Errores comunes en el diseño de API RESTful y cómo evitarlos."
+
+[[articles]]
+number = 3
+url = "https://github.com/hotheadhacker/awesome-selfhost-docker"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Lista impresionante de aplicaciones autoalojadas con Docker."
+
+[[articles]]
+number = 4
+url = "https://optical.toys/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Colección fascinante de juguetes ópticos, si exacto, OPTICOS, no otra cosa."
