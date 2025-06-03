@@ -1,0 +1,39 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 25
+date = "31 Marzo 2025"
+welcome = """
+Buenas a todos,
+</br></br>
+Hoy tengo un batiburrillo de cosas, saliendo de lo puramente técnico.
+</br></br>
+Poco mas, ya me contaréis. Un saludo!
+"""
+
+[[articles]]
+number = 1
+url = "https://buttondown.com/hillelwayne/archive/verification-first-development/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Vuelta de tuerca al tema de TDD, pero centrandose esta vez en que debemos tener los test o el sistema de verificación antes o al menos a la vez que el código. Me recuerda un poco al tema de las pruebas en nuestro desarrollo en V."
+
+[[articles]]
+number = 2
+url = "https://awesome-selfhost-docker.vercel.app/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Listado de servicios autoalojados. Por si le interesa a alguno."
+
+[[articles]]
+number = 3
+url = "https://newsletter.weskao.com/p/use-but-strategically"
+type = "TEXT"
+cat = "GENERAL"
+summary = "La estrategia del uso del pero."
+
+[[articles]]
+number = 4
+url = "https://userinyerface.com/game.html"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Y algo para entreteneros, seguro que mas de uno se acordará de mi al final."

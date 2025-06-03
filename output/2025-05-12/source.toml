@@ -1,0 +1,41 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 26
+date = "12 Abril 2025"
+welcome = """
+Buenas a todos,
+</br></br>
+Adjunto como (casi) todas las semanas un listado de artículos que he visto y que pienso que os pueda interesar. 
+</br></br>
+Comentar que dentro de un mes es el OpenSouthCode en Málaga. Aún no ha salido el programa pero mi intención es ir este año, si alguien se piensa en apuntar que me vaya comentando y vamos viendo como nos organizamos el viaje.
+</br></br>
+Poco mas, ya me contaréis. Un saludo!
+"""
+
+[[articles]]
+number = 1
+url = "https://idiallo.com/blog/zipbomb-protection"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Artículo interesante en el que protegn un servidor utilizando archivos comprimidos de pequeño tamaño pero cuando se descomprimen petan la máquina."
+
+[[articles]]
+number = 2
+url = "https://www.youtube.com/watch?v=HNjf6LV5d50"
+type = "VIDEO"
+cat = "GENERAL"
+summary = "Charla muy interesante en el que explican un desarrollo de un projecto a escala minúscula, pero en el que se puede aprender mucho. Esta misma filosofía es el que se siguió en el TDS."
+
+[[articles]]
+number = 3
+url = "https://dev.to/hanzla-baig/150-free-apis-every-developer-needs-to-know-m9j"
+type = "TEXT"
+cat = "GENERAL"
+summary = "APIs abiertas para vuestros pequeños proyectitos, o simplemente para curiosear."
+
+[[articles]]
+number = 4
+url = "https://github.com/CodingChallengesFYI/SharedSolutions"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Web de soluciones de Coding Challenges. Algunos vienen resueltos en C++"

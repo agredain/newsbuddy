@@ -1,0 +1,39 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 29
+date = "3 Junio 2025"
+welcome = """
+Buenas a todos,
+</br></br>
+Espero que no terminaséis muy mal en la feria del puerto. Para pasar mejor la resaca, algunos artículitos.
+</br></br>
+Un saludo!
+"""
+
+[[articles]]
+number = 1
+url = "https://code.likeagirl.io/memory-in-c-explained-like-youre-five-unusually-simple-guide-4a56287c4af6"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Explicación de la gestión de la memoria en C++."
+
+[[articles]]
+number = 2
+url = "https://www.nvidia.com/en-us/on-demand/?regcode=em-news-628044-feb-2025-ene-m2&ncid=em-news-628044-feb-2025-ene-m2"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Por si alguien se perdió la última conferencia de desarrolladores de NVIDIA."
+
+[[articles]]
+number = 3
+url = "https://8grams.medium.com/lxd-lxc-linux-container-to-rule-them-all-5f488322d667"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Artículo bastaste extenso hablando sobre Linux Container, que no tiene nada que ver con Docker como veréis."
+
+[[articles]]
+number = 4
+url = "https://wizardzines.com/comics/sprinkle-assertions-everywhere/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Un pequeño consejo del día, en muchos proyectos se ve y creo que puede ser interesante, al menos en los modos debug."

@@ -1,0 +1,39 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 27
+date = "19 Mayo 2025"
+welcome = """
+Buenas a todos,
+</br></br>
+Tengo poco que comentar, me ha pillado el toro. Os paso algunos enlaces.
+</br></br>
+Un saludo!
+"""
+
+[[articles]]
+number = 1
+url = "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff88bba04-c206-49a3-9e7b-4aecee486b06_1280x1547.gif"
+type = "IMAGE"
+cat = "GENERAL"
+summary = "Diagrama/esquema con ejemplo de código bueno y malo."
+
+[[articles]]
+number = 2
+url = "https://podcastaddict.com/devtalles/episode/198188348"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Podcast de DevTales en el que en este capítulo tratan la deuda técnica."
+
+[[articles]]
+number = 3
+url = "https://www.thecaringtechie.com/p/what-high-performers-know-about-doing"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Creo que la mejor forma de definir este artículo es como conseguir procasticar menos. A veces inconscientemenete caemos sobre ese lado oscuro."
+
+[[articles]]
+number = 4
+url = "https://youtube.com/watch?v=Qch0PIwLt8Y&si=jUW4rWcf62C56Hgz"
+type = "VIDEO"
+cat = "GENERAL"
+summary = "Charla del OpenSouthCode 2024 en el que se habla de producto, y como lo enfoca diferentes empresas conocidas."

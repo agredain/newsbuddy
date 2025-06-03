@@ -1,0 +1,43 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 28
+date = "26 Mayo 2025"
+welcome = """
+Buenas a todos,
+</br></br>
+Ya ha salido el programa del <a href="https://www.opensouthcode.org/conferences/opensouthcode2025/schedule">OpenSouthCode 2025</a> y estoy valorando la asistencia (20/21 de junio) en función de las charlas.
+</br></br>
+Desconozco si mas gente está interesada en asistir al evento, pero pensaba que si se formaba un grupo curioso podríamos juntarnos para asistir al evento en Málaga todos juntos.
+</br></br>
+Para eso, he pensado que la gente que esté interesada me envíe un correo o que me escriba en privado y voy apuntando. Mi idea es para el viernes 30 o lunes 2 tener el grupito formado y empezar a movernos para ver como vamos a Málaga y como hacemos para quedarnos alli.-
+</br></br>
+Un saludo!
+"""
+
+[[articles]]
+number = 1
+url = "https://strategizeyourcareer.com/p/from-zero-to-software-engineer-100"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Recursos a tutiplen, para ir desde zero a Ingeniero. A mi me parece bastante abrumador la cantidad de cosas que hay."
+
+[[articles]]
+number = 2
+url = "https://cengizhanvarli.medium.com/memento-design-pattern-in-c-d2a47cc77577"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Es un ejemplito muy tonto de un patrón para guardar estados, es muy simple pero en eso radica la ventaja."
+
+[[articles]]
+number = 3
+url = "https://blog.devgenius.io/mastering-asynchronous-programming-in-python-a-comprehensive-guide-ef1e8e5b35db"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Artículo para sacarle todo el jugo a asyncio de Python."
+
+[[articles]]
+number = 4
+url = "https://medium.com/@mubosarhaye/the-importance-of-practicing-raii-in-c-87011f3e3931"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Artículo cortito sobre gestión de recursos en memoria en C++, esto hay que tenerlo en cuenta siempre."
