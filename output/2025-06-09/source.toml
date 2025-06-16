@@ -1,0 +1,39 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 30
+date = "9 Junio 2025"
+welcome = """
+Buenas a todos,
+</br></br>
+En esta edición exploramos la pereza cognitiva y cómo superarla, descubrimos trucos útiles para programar en C++, y aprendemos sobre procesamiento en paralelo y posibles errores al declarar variables en este lenguaje.
+</br></br>
+Un saludo!
+"""
+
+[[articles]]
+number = 1
+url = "https://programaconia.substack.com/p/rompe-el-ciclo-de-la-pereza-cognitiva"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Publicación de Daniel Primo, tocayo mio, hablando sobre que es la pereza cognitiva, porque es importante identificarla y como combatirla."
+
+[[articles]]
+number = 2
+url = "https://dranolia.medium.com/c-cheatsheet-01a308f702bd"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Primero de 4 artículos sobre algunos trucos de C++."
+
+[[articles]]
+number = 3
+url = "https://www.youtube.com/watch?v=mdKdkVskrJ8"
+type = "VIDEO"
+cat = "GENERAL"
+summary = "Charla interesante sobre el procesamiento en paralelo en C++."
+
+[[articles]]
+number = 4
+url = "https://www.youtube.com/watch?v=kmkwBnb2aCY"
+type = "VIDEO"
+cat = "GENERAL"
+summary = "Ejemplos en el que la declaración de variables en C++ pueden torcerse malamente."

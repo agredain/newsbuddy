@@ -1,0 +1,39 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 31
+date = "16 Junio 2025"
+welcome = """
+Buenas a todos,
+</br></br>
+En esta edición hablaremos sobre la importancia de saber decir que no en el ámbito profesional, cómo el valor que aportamos puede ir más allá de nuestras habilidades técnicas, un interesante video sobre Clean Code presentado en el OpenSouthCode, y un artículo técnico sobre el uso correcto de hilos en Qt.
+</br></br>
+Un saludo!
+"""
+
+[[articles]]
+number = 1
+url = "https://www.linkedin.com/pulse/cuando-agradar-es-ser-profesional-braulio-diez-botella-ehxbe/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "A veces, hay que saber cuando decir que no, hay muchas maneras y situaciones, pero tenemos que aprender a valorar cuando podemos decir si y cuando no."
+
+[[articles]]
+number = 2
+url = "https://medium.com/realworld-ai-use-cases/why-clients-pay-me-10x-more-than-developers-who-are-better-at-coding-than-me-10bc46f6e67b"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Cambia cliente por Jefe de proyecto, y el efecto es lo mismo pero dentro de la empresa."
+
+[[articles]]
+number = 3
+url = "https://youtu.be/TTCugqSuJn8"
+type = "VIDEO"
+cat = "GENERAL"
+summary = "Video sobre Clean Code del OpenSouthCode del año pasado."
+
+[[articles]]
+number = 4
+url = "https://www.vikingsoftware.com/how-to-use-qthread-properly/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Volvemos un poquito con Qt, artículo de empresa que les gusta mucho publicar sobre Qt explicando como usar los hilos de Qt correctamente.."
