@@ -1,0 +1,41 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 35
+date = "28 Julio 2025"
+welcome = """
+Buenas a todos,
+</br></br>
+En esta edición tenemos un especial de Systemd, el gran sistema de arranque de casi todos los SO Linux modernos. Además de un poquito de C++ y un poquito de Python.
+</br></br>
+Comentar que ya no vuelvo a enviar nada hasta septiembre. Tambin comento que los que no quieran seguir recibiendo el correo que me lo notifique, que juro que no habrá represalias...
+</br></br>
+Un saludo!
+"""
+
+[[articles]]
+number = 1
+url = "https://medium.com/@obaff/how-to-structure-a-systemd-service-file-8fa8ab758947"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Como estructurar un servicio en systemd, es básico pero completo, en la documentación oficial te puedes perder."
+
+[[articles]]
+number = 2
+url = "https://medium.com/@obaff/11-systemctl-commands-for-power-users-in-production-a90db1cf30a7"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Comandos para hacer cositas en systemd, útil saberlo para tener control sobre lo que ocurre en el sistema a nivel de servicios."
+
+[[articles]]
+number = 3
+url = "https://cppdoctor.com/blog/3-common-myths-about-c-lambdas"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Texto cortito sobre Lambdas en C++, pero me pareció interesante."
+
+[[articles]]
+number = 4
+url = "https://blog.devgenius.io/pythons-vision-c-s-strength-the-art-of-delegating-computationally-demanding-challenges-to-c-00fc86f7fc6a"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Y por último texto sobre python y compilaciones de funciones y código, puede que algún proyecto pueda salir beneficiado, o eso espero."

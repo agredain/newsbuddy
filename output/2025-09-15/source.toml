@@ -1,0 +1,41 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 36
+date = "15 Septiembre 2025"
+welcome = """
+Buenas a todos,
+</br></br>
+Ya de vuelta del verano retomo la Newsletter, eso si, me ha costado un poco retomarla.
+</br></br>
+Empiezo medio flojo medio fuerte, pero espero que os aporte algo de valor al final del día.
+</br></br>
+Un saludo!
+"""
+
+[[articles]]
+number = 1
+url = "https://webreactiva.substack.com/p/por-que-no-encuentras-trabajo-como"
+type = "TEXT"
+cat = "GENERAL"
+summary = "No os fiéis del título del artículo. Lo importante está al final (antes de los recursos), el apartado de habilidades y el apartado '¡Lee el j*d*do código!'"
+
+[[articles]]
+number = 2
+url = "https://levelup.gitconnected.com/project-practice-applying-theory-to-practical-use-of-c-ptr-in-programming-74fae9ba3544"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Un poquito de C++ del duro, del que me gusta. Algunas cosas que pueden ayudar a crear herramientas útiles."
+
+[[articles]]
+number = 3
+url = "https://www.youtube.com/watch?v=SNqwNILX1Gg&pp=4gcWEhR3d3cucHl0aG9ud2Vla2x5LmNvbQ%3D%3D"
+type = "VIDEO"
+cat = "GENERAL"
+summary = "Artículo de Youtube en el que te explican las abstracciones en python. Exceptuando Protocol que si lo puedes encontrar en Golang, el resto son patrones que podemos ver en C++ moderno."
+
+[[articles]]
+number = 4
+url = "https://www.makingsoftware.com/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Web que me recuerda a los tipicos libros de como son las cosas por dentro. Tiene muy poquitas cosas pero promete, yo al menos me he apuntado a la lista de espera."

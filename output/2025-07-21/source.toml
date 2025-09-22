@@ -1,0 +1,39 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 34
+date = "21 Julio 2025"
+welcome = """
+Buenas a todos,
+</br></br>
+Prepararos para una edición cargado de hilos, mutex, y cosas asi. Creo que hay cosas interesantes para esta semana.
+</br></br>
+Un saludo!
+"""
+
+[[articles]]
+number = 2
+url = "https://code.likeagirl.io/let-threads-sleep-a-simple-guide-to-condition-variables-in-c-200bd418c006"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Gestión de hilos con sistema bloqueante sin gastar ciclos de CPU."
+
+[[articles]]
+number = 4
+url = "https://www.youtube.com/watch?v=UTgxuT2hZY0"
+type = "VIDEO"
+cat = "GENERAL"
+summary = "Presentación sobre Testing, simplemente espero que no sea nada viejo para vosotros."
+
+[[articles]]
+number = 1
+url = "https://medium.com/@john.farrier/powerful-tips-and-techniques-for-std-mutex-in-c-257257faab6b"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Mutex, cierres... Todo lo que querías sabes y nunca te atrevistes a preguntar."
+
+[[articles]]
+number = 3
+url = "https://medium.com/the-elegant-code/exceptional-threads-e6c8c02728c6"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Tu y yo no lo sabíamos, pero C++ tiene futuribles y gestión asincrona desde C++11, como el asyncio de Python. Gestión de hilos, concurrencia y alguna cosilla mas."

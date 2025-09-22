@@ -1,0 +1,43 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 37
+date = "22 Septiembre 2025"
+welcome = """
+Buenas a todos,
+</br></br>
+Hoy es una edición Pythónica en suma, no os alarméis en la siguiente vuelvo a C++ puro. 
+</br></br>
+Debería buscar fuentes de Qt, pero muchas no explican trucos ni nada por el estilo, podría anotarlo como tarea buscar alguna cosa mas de qt.
+</br></br>
+También, podría hacer una encuenta para saber que tipo de materias os interesa, o escribirme directamente, o a la cara, como prefiráis.
+</br></br>
+Un saludo!
+"""
+
+[[articles]]
+number = 1
+url = "https://levelup.gitconnected.com/mastering-pythons-asyncio-the-unspoken-secrets-of-writing-high-performance-code-3d7483518894"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Artículo muy pensado para los pythonisos para aprender algunos trucos de asyncio."
+
+[[articles]]
+number = 3
+url = "https://pythoninstitute.org/pcep"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Aqui recurso para sacarse el Certified Entry-Level Python Programmer, entiendo que será como los certificados de Java pero para python, seguramente si busco encuentro el equivalente en C++."
+
+[[articles]]
+number = 2
+url = "https://medium.com/the-pythonworld/async-vs-threads-in-python-a-simple-mental-model-that-finally-made-it-click-4d890b989dc8"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Siguiendo la línea, explicando la diferencia entre Async y Threads en Python."
+
+[[articles]]
+number = 4
+url = "https://medium.com/@obaff/7-time-saving-ansible-features-youre-probably-not-using-3c35f7d63795"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Algunos truquitos para Ansible, que no vienen mal."

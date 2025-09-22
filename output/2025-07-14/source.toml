@@ -1,0 +1,39 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 33
+date = "14 Julio 2025"
+welcome = """
+Buenas a todos,
+</br></br>
+Algunas cosas fresquitas y un buen variadito.
+</br></br>
+Un saludo!
+"""
+
+[[articles]]
+number = 1
+url = "https://www.youtube.com/watch?v=zIw1KweFlu8"
+type = "VIDEO"
+cat = "GENERAL"
+summary = "Para los que ven fijamente a la nomina, y la nómina les mira fijamente a ellos, pero no hay feeling de ningún tipo, un video que os ayudará a mejor vuestra relación."
+
+[[articles]]
+number = 2
+url = "https://medium.com/@nerudaj/tuesday-coding-tip-88-enum-discriminated-unions-with-nlohmann-json-b746b5e276f3"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Artículo sobre la librería nlohmann/json que utilizamos aqui, con algunos tips para no tengamos que hacer nosotros directamente los parseos. Seguramente en la wiki habrá mas cosillas."
+
+[[articles]]
+number = 3
+url = "https://blog.bytebytego.com/p/ep171-the-generative-ai-tech-stack?publication_id=817132&post_id=167925185&triggerShare=true&isFreemail=true&r=lxcdw&triedRedirect=true"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Esta edición de ByteByteGo va bastante completita sobre cosas de IA, agentes y servidores MCP, entre otras cosas."
+
+[[articles]]
+number = 4
+url = "https://cmp99.medium.com/using-attributes-in-c-c4abe349e28d"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Un extraño en el barrio pero que en algunos casos son interesantes, como por ejemplo [[nodiscard]] o [[deprecated]]."
