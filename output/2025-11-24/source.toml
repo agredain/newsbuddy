@@ -1,0 +1,45 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 40
+date = "24 Noviembre 2025"
+welcome = """
+Buenas a todos,
+</br></br>
+Se ha alcanzado el número 40 de esta Newsletter, no lo voy a celebrar a lo grande pero si comentar algunas cosas.
+Nadie se a quejado del SPAM, asi que por el momento voy a seguir.
+Alguno, pocos, me han dicho de noticias que no pueden acceder, voy a intentar dar remedio al respecto.
+Otros pocos que ponga mas cosas de Qt, estoy en ello, es un nicho muy pequeño.
+En el pasado he comentado de quien no le interese que me lo diga, ahora voy a pedir todo lo contrario, si echáis en falta alguien en la lista y que creéis que le puede intersar, comentarselo para que lo meta en el hilo.
+</br></br>
+Simplemente, muchas gracias por todo y espero que disfrutéis de estos 4 artículos.
+</br></br>
+Un saludo!
+"""
+
+[[articles]]
+number = 1
+url = "https://somcosoftware.com/en/blog/mastering-qt-multithreading-without-losing-your-mind"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Multithreading y Qt, ¿que puede salir mal? Algunas clases, métodos y paradigmas para dominar las tareas con concurrencia."
+
+[[articles]]
+number = 2
+url = "https://medium.com/write-a-catalyst/4-bash-commands-that-should-never-be-run-on-any-machine-2dc2f5ddb5ea"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Comandos bash que bajo ningún concepto se deberían lanzar y porque, y si, en esta empresa he visto gente lanzar alguno de estos. Artículo para miembros solamente (la incluyo como adjunto)."
+
+[[articles]]
+number = 3
+url = "https://nilostolte.github.io/tech/articles/ZigCool.html"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Otro lenguaje que quiere desbancar a C++, ofreciendo algunas mejoras. Está bien saber que existe y mas o menos en que consiste."
+
+[[articles]]
+number = 4
+url = "https://www.getmanfred.com/en/developer-career-report"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Reporte de Manfred sobre el estado de la comunidad Software, incluyendo tecnologías, banda salarial, brechas etc."

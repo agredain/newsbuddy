@@ -1,0 +1,39 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 39
+date = "27 Octubre 2025"
+welcome = """
+Buenas a todos,
+</br></br>
+Después de tanto tiempo os envío un batiburrillo de artículos y webs.
+</br></br>
+Un saludo!
+"""
+
+[[articles]]
+number = 1
+url = "https://medium.com/@albert.kapitanov.77/test-coverage-and-what-it-can-tell-us-1a26671b0316"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Articulo en el que se trabaja en Golang pero que se entiende muy bien la diferencia entre line coverage y brach coverage, y porque deberíamos cuidar este segundo."
+
+[[articles]]
+number = 2
+url = "https://github.com/microsoft/edgeai-for-beginners"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Curso de Microsoft de IA in the Edge."
+
+[[articles]]
+number = 3
+url = "https://medium.com/@vrushali2317/c-isnt-dying-it-s-evolving-why-the-language-of-legends-still-rules-high-performance-tech-c8d3dce4da92"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Articulo de porque C++ está mas vivo que muerto, aunque mucha gente diga lo contrario."
+
+[[articles]]
+number = 4
+url = "https://cppcast.com/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Aun no lo he empezado a escuchar pero ya están en mi lista de podcast. Podcast en inglés sobre el mundo de C++."

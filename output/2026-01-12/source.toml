@@ -1,0 +1,39 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 41
+date = "12 Enero 2026"
+welcome = """
+Buenas a todos,
+</br></br>
+Primero feliz año a todos y espero que disfrutáseis de las fiestas y que os artaseis de turrón. Empezando el año con pilas recargadas (o mas reventado aún, dependiendo de lo bien que fueron las fiestas) con algunos enlaces que tenía por aqui reservado.
+</br></br>
+Un saludo!
+"""
+
+[[articles]]
+number = 1
+url = "https://www.qt.io/blog/how-to-learn-qt-in-2026"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Enlace con recursos propios de Qt para aprender en el nuevo año aprendiendo mas sobre este framework. Como propósito de año nuevo no está mal."
+
+[[articles]]
+number = 2
+url = "https://pshenok.github.io/server-survival/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Juego muy gracioso en el que eres un chico de IT de una empresa y tienes que proporcionar el hierro y sistemas para la empresa, el Hospital Tycoon de Silicon Valley."
+
+[[articles]]
+number = 3
+url = "https://mropert.github.io/2025/11/11/enum_class_error_codes/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Gestión de enumerados con propiedades. Hace una aproximación para recuperar códigos de error de funciones tipo C, pero valdría para otras aproximaciones también."
+
+[[articles]]
+number = 4
+url = "https://medium.com/@oz3dprinter/level-up-your-c-skills-10-open-source-projects-for-every-skill-tier-f8895b5c9386"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Siguiendo el hilo de propsitos de año nuevo y aprender un poco mas, un recurso en el que te dicen algunos proyectos OpenSource donde se puede participar en función de tu nivel de C++, para el que quiera seguir programando y practicando por su cuenta bajo la tutela de gente que sabe lo que hace."

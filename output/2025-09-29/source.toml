@@ -1,0 +1,41 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 38
+date = "29 Septiembre 2025"
+welcome = """
+Buenas a todos,
+</br></br>
+Hoy especial C++. Muy sencillito todo hoy.
+</br></br>
+Me he quedado casi sin material, si hay alguna cosilla que os interese comentarlo.
+</br></br>
+Un saludo!
+"""
+
+[[articles]]
+number = 1
+url = "https://medium.com/@simontoth/daily-bit-e-of-c-std-abort-std-terminate-6fd00a29bee6"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Algunas funcionalidades para abortar o terminar programas hechos en C++."
+
+[[articles]]
+number = 2
+url = "https://blog.devgenius.io/exploring-container-classes-in-c-stl-a-comprehensive-overview-f7491bea84c0"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Todo lo que querías saber sobre contenedores de C++ y nunca te atrevistes a preguntar. No todo es un vector."
+
+[[articles]]
+number = 3
+url = "https://medium.com/@ryan_forrester_/dangling-pointers-in-c-a-comprehensive-guide-04d55b0feb51"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Típicas cagadas que cometemos con los punteros. Un gran poder conlleva una gran responsabilidad."
+
+[[articles]]
+number = 4
+url = "https://levelup.gitconnected.com/all-about-the-const-family-in-c-a87070d602b6"
+type = "TEXT"
+cat = "GENERAL"
+summary = "En C++ existe los modificadores const. Hay de muchos tipos y da muchas ventajas en interfaces y también a nivel de compilador."
