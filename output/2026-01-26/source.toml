@@ -1,0 +1,41 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 43
+date = "26 Enero 2026"
+welcome = """
+Buenas a todos,
+</br></br>
+En la última semana del mes os paso algunos enlaces y videos que tienen poca chicha mental, mas suavecito para permitir terminar el més sin extres y sin explotar la cabeza como con los anteriores.
+</br></br>
+Aunqu eso si, creo que un par de ellos son bastantes accionables.
+</br></br>
+Un saludo!
+"""
+
+[[articles]]
+number = 1
+url = "https://www.youtube.com/watch?v=a0C7HThCE_Y"
+type = "VIDEO"
+cat = "GENERAL"
+summary = "Video en el que se hace un repaso en la historia de Windows desde la versión 1 que se liberó al mercado en los 80."
+
+[[articles]]
+number = 2
+url = "https://wordpress.tv/2025/11/10/cuando-haces-un-poc-ya-no-hay-stop-ia-practica-para-convertir-ideas-en-proyectos/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Charla en el que te plantea como realizar un POC (Proof Of Concept) utilizando la IA. No esperéis en 30 min encontrar la panacea pero te puede ayudar a enfilar el proyecto ese que siempre te ha dado pereza empezar."
+
+[[articles]]
+number = 3
+url = "https://www.getmanfred.com/en/blog/salaries-barcelona-vs-madrid-vs-rest-of-spain"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Comparativa entre los salarios de los distintos polos tecnológicos. Esta muy bien porque también definen los distintos ecosistemas y como influye en el stack tecnológico y como no, en los sueldos."
+
+[[articles]]
+number = 4
+url = "https://store.steampowered.com/app/3606890/Upload_Labs/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Juego que me han aconsejado después de compartir Server Survival. Es gratuito y promete también."
