@@ -1,0 +1,39 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 46
+date = "16 Febrero 2026"
+welcome = """
+Buenas a todos,
+</br></br>
+Estoy intentando incluir artículos sobre Qt pero no me surgen cosas muy interesantes en general (nuevas versiones de Qt o QtCreater como mucho), si saco tiempo buscaré cosas especificas de Qt.
+</br></br>
+Un saludo!
+"""
+
+[[articles]]
+number = 1
+url = "https://medium.com/@mansi_maheshwari/smart-pointer-in-c-4f8a7cb755e3"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Aquí tenemos otra de Smart Pointers, para variar. Pero en este caso mas que explicar que son intenta mostrar cuales son los mejores escenarios para utilizar uno u otro."
+
+[[articles]]
+number = 2
+url = "https://www.sandordargo.com/blog/2025/09/03/observers-part1"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Primera de una serie que explican el patrón subscriber y publisher, y como puedes montar sistemas reactivos siguiendo este patrón."
+
+[[articles]]
+number = 3
+url = "https://www.youtube.com/watch?v=Cum5uN2634o"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Charla bastante interesante en el que explica la complejidad de un sistema en función de 4 cuadrantes, como a mucha gente les gusta."
+
+[[articles]]
+number = 4
+url = "https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Página de refeencia (no creo que sea para leerlo en una sentada) sobre como funcionan los directorios del filesystem de un sistema linux."
