@@ -1,0 +1,39 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 45
+date = "09 Febrero 2026"
+welcome = """
+Buenas a todos,
+</br></br>
+Nueva edición con artículos calentitos, e incluso con cosas que no tienen que ver con el desarrollo.
+</br></br>
+Un saludo!
+"""
+
+[[articles]]
+number = 1
+url = "https://www.youtube.com/watch?v=sB__60SypYA"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Otro video de DevTales, viendo que el anterior gustó, otro del mismo autor sobre el agente OpenClaw que se ha puesto de moda."
+
+[[articles]]
+number = 2
+url = "https://andreasfertig.com/blog/2026/01/singleton-done-right-in-cpp/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Como hacer un singleton en condiciones, si tienes que hacer uno claro."
+
+[[articles]]
+number = 3
+url = "https://www.cppstories.com/2025/structured-bindings-cpp26-updates/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Artículo sobre bindings en C++17 para adelante, ayundando a que el código sea mas leible y con menos ceremonias."
+
+[[articles]]
+number = 4
+url = "https://www.bbc.co.uk/learningenglish/english/features/beating_speaking_anxiety"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Para la gente como yo, que cuando escucha a un frances hablando en inglés y lo entiende igual de mal que el código de hace un mes."
