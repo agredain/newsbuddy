@@ -1,0 +1,39 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 44
+date = "02 Febrero 2026"
+welcome = """
+Buenas a todos,
+</br></br>
+Nuevo mes, nueva newsletter. Un variadito de artículos y videos descafeinado para empezar el mes de febrero.
+</br></br>
+Un saludo!
+"""
+
+[[articles]]
+number = 1
+url = "https://medium.com/the-pythonworld/stop-writing-utility-functions-in-python-heres-the-better-pattern-297f820eb2db"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Artículo sobre Clean Code, en el que explica el tema de los módulos de \"Utilidades\" en python. También aplicable a C++. Añado en el correo versión descargada del artículo."
+
+[[articles]]
+number = 2
+url = "https://www.youtube.com/watch?v=wPZV2hBNJmo"
+type = "VIDEO"
+cat = "GENERAL"
+summary = "Charla de la CppCon 2025 en el que se habla del pasado, presente y futuro de una de las herramientas que mas se usan en los proyectos de C++."
+
+[[articles]]
+number = 3
+url = "https://www.qt.io/qt-certifications"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Si alguien está interesado en obtener una certificación en Qt. Cuesta casi como sacarte el B2 y no está tan reconocido, pero quien sabe."
+
+[[articles]]
+number = 4
+url = "https://gstreamer.freedesktop.org/news/?__goaway_challenge=meta-refresh&__goaway_id=c92880265b1d27dc1963dcb674b4b737"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Para los que les puedan interesar (Box-AI?), ha salido ya gstreamer 1.28.0. Nuevas funciones y mucho mejor."
