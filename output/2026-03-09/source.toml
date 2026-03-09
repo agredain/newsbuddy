@@ -1,0 +1,41 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 49
+date = "09 Marzo 2026"
+welcome = """
+Buenas a todos,
+</br></br>
+
+Algunos artículos nuevos para esta semana. Queria anunciar que para dar mas tiempo a mi obtener cosas y a vosotros leerlo, voy a pasar la Newsletter de semanal a bisemanal.
+</br></br>
+
+Un saludo!
+"""
+
+[[articles]]
+number = 1
+url = "https://www.youtube.com/playlist?list=PLXOzhXs9brxe0u-OjHjtOjHJYRaP3W2Vh"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Ya han publicado vídeos de la OpenSouthCode del año pasado. Por ahora son pocos, supongo que irán subiendo poco a poco el resto de los vídeos. En cualquier caso si veo que hay algo interesante os iré avisando."
+
+[[articles]]
+number = 2
+url = "https://www.qt.io/software-insights/atomic-design-systems-why-the-labels-dont-matter"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Diseño de sistemas atómicos, al final es lo mismo que el principio SOLID, pero con la filosofía de empezar con componentes pequeños que luego formen componentes mas grándes."
+
+[[articles]]
+number = 3
+url = "https://www.webtoolkit.eu"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Webtoolkit (Wt) es un framework para hacer páginas web que en cuanto lo veas un poco vas a ver ciertas similitudes con Qt. Por imitar han imitado también el formato de licenciamiento."
+
+[[articles]]
+number = 4
+url = "https://devblogs.microsoft.com/cppblog/visual-studio-code-cmake-tools-1-22-target-bookmarks-and-better-ctest-output/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Actualización del plugin de Cmake para VSC, con algunas mejoras para la hora de los tests."
