@@ -1,0 +1,39 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 47
+date = "23 Febrero 2026"
+welcome = """
+Buenas a todos,
+</br></br>
+Nueva edición, como es obvio observar. Aprovecho para recordar el correo sobre mejoras que envié la semana pasada.
+</br></br>
+Un saludo!
+"""
+
+[[articles]]
+number = 1
+url = "https://medium.com/@sagar.necindia/constexpr-part-i-the-engine-of-modern-c-meta-programming-d9896938f8ba"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Explicación de porque es importante utilizar constexpr, tanto con variables como con funciones."
+
+[[articles]]
+number = 2
+url = "https://www.natemeyvis.com/on-cognitive-debt/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Artículo que me ha parecido muy interesante sobre el riesgo de perder el control programando con IA."
+
+[[articles]]
+number = 3
+url = "https://github.com/mainmatter/100-exercises-to-learn-rust"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Ejercicios para los que quieren aprender Rust de la forma mas práctica."
+
+[[articles]]
+number = 4
+url = "https://www.youtube.com/watch?v=XLX_EihqHIE"
+type = "VIDEO"
+cat = "GENERAL"
+summary = "Charla en Meeting C++ 2025 en el que explica buenas prácticas de código limpio para c++. No está mal recordar estas cosas de vez en cuando."
