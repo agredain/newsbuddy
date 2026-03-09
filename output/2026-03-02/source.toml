@@ -1,0 +1,41 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 48
+date = "02 Marzo 2026"
+welcome = """
+Buenas a todos,
+</br></br>
+Os traigo un variadito para empezar el mes y la semana. También estoy valorando en reducir la frecuenca de la newsletter y pasar de 1 vez en semana a 2 veces. De esta forma permitir a la gente consumirla con mas tranquilidad.
+</br></br>
+Si hay alguien en contra que hable ahora o que calle para siempre.
+</br></br>
+Un saludo!
+"""
+
+[[articles]]
+number = 1
+url = "https://newsletter.eng-leadership.com/p/software-engineering-is-becoming"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Artículo que acaba de aparecer recientemente en el radar y que me ha recordado en las conversaciones del plan de Mejora de la semana pasada. En el se habla de los perfiles generalistas y que las empresas hoy en día busca mas el impacto que puedeas ofrecer que el rol en si."
+
+[[articles]]
+number = 2
+url = "https://www.cppstories.com/2016/11/iife-for-complex-initialization/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "initialización de variables (sobre todo si quieres que sean constantes) utilizando “Immediately-invoked function expression” o IIFE. Metodo que me ha parecido absurdamente fácil pero a la vez muy genial."
+
+[[articles]]
+number = 3
+url = "https://medium.com/codetodeploy/the-9-hidden-c-features-nobody-told-you-about-but-every-senior-dev-uses-e699a05e0d7e"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Algunos truquillos para C pero que muchos de ellos se pueden extrapolar a C++."
+
+[[articles]]
+number = 4
+url = "https://www.qt.io/blog/free-qml-beginner-course-learn-qml-on-youtube-with-qt-academy"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Para los que les pueda interesar, curso gratuito en Youtube para aprender a programar con QML."
