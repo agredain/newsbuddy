@@ -1,0 +1,39 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 51
+date = "6 Abril 2026"
+welcome = """
+Buenas a todos,
+</br></br>
+Después del descanso de Semana Santa y de artarnos de roscos, adjunto aquí el conjunto de saberes recolectados y destilados perfectos para vuestro paladar intelectual. Menos mal que nadie lee esta parte del email.
+</br></br>
+Muchas gracias por estar ahí y un saludo!
+"""
+
+[[articles]]
+number = 1
+url = "https://app.supermo.no/share/352889e383de0c1b/6c4012582d"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Este pasado domingo, en mi querida Bolinista, gran fuente de verdad, conocimiento y zascas, han publicado sobre los Brag Documents. Había escuchado los mismos pero sobre todo para modo interno."
+
+[[articles]]
+number = 2
+url = "https://www.youtube.com/watch?v=xCuRUjxT5L8"
+type = "VIDEO"
+cat = "GENERAL"
+summary = "Mejores prácticas para usar herramientas de IA en el desarrollo, del pasado CppCon 2025. Muy interesante la verdad"
+
+[[articles]]
+number = 3
+url = "https://www.youtube.com/watch?v=cJNp3IhUCIM"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Lo último sobre VSC en el mundo de C++, estoy usando algunas cosas de aqui y allá para hacer una plantilla para C++. Espero que mas pronto que tarde vea la luz."
+
+[[articles]]
+number = 4
+url = "https://doc-snapshots.qt.io/interfaceframework-dev/qtinterfaceframework-interfaceframework-qface-tutorial-example.html"
+type = "VIDEO"
+cat = "GENERAL"
+summary = "Finalmente el IDL (lenguaje declarativo usando en DDS, Protobuff y otros) ha llegado a Qt, era cuestión de tiempo que se viera algo así. Por el momento poco que hacer, diría yo."
