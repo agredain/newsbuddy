@@ -1,0 +1,39 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 52
+date = "20 Abril 2026"
+welcome = """
+Buenas a todos,
+</br></br>
+Creo que me ha quedado una edición no exageradamente densa y con bastante valor. Espero que lo disfrutéis.
+</br></br>
+Muchas gracias por estar ahí y un saludo!
+"""
+
+[[articles]]
+number = 1
+url = "https://dev.to/the_nortern_dev/the-emotional-terror-of-closing-a-browser-tab-122k"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Artículo que no tiene nada que ver con ingeniería de SW, pero en el que en parte me he sentido identificado. No se si alguno mas sentirá lo mismo."
+
+[[articles]]
+number = 2
+url = "https://werwolv.net/posts/usb_for_sw_devs/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Yendo al otro lado del espectro, artículo que veo bastante bueno, con ejemplos y todo, de desarrollo de drivers para dispositivos USB. Parece mas sencillo de lo que es al final."
+
+[[articles]]
+number = 3
+url = "https://medium.com/@bektiaw/9-hidden-linux-directories-every-engineer-should-know-ea0c3e8290e3"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Algunos ya los conocía, otros no; otros los tenía mal identificados y luego están los que directorios que hemos sufrido en C4i-MAN. También muy cortito y de culturilla."
+
+[[articles]]
+number = 4
+url = "https://blog.stackademic.com/pointers-the-concept-everyone-says-is-hard-bc9146053a11"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Y para el final, para los que se lían con el tema de los punteros, un artículo en el que se habla sobre los punteros en C++, con dibujos y todo incluido."
