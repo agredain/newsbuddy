@@ -1,0 +1,47 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 53
+date = "11 Mayo 2026"
+welcome = """
+Buenas a todos,
+</br></br>
+Disculpad que me saltara una semana, entre el festivo y que hubo bastante lío preferí saltarme la semana. Espero que al menos mereciera la pena.
+</br></br>
+Quiero aprovechar para dejar una frase que he leido hace poco y me parece muy acertada y sabia, y que me gustaría compartir con vosotros, es de un tal John Guttag y dice lo siguiente:
+</br></br>
+"Abstraction is the art of hiding details that are currently irrelevant so that you can focus on details that are currently relevant."
+</br></br>
+Es otra forma de decir que trabajar con abstracciones es directamente trabajar con ideas, con procesos, con reglas de negocio, intentando simplificar destalles o desacoplarlos de la realidad subyacente.
+</br></br>
+Me ha quedado una intro algo mas larga de lo normal, pero espero que con ello os llevéis algo nuevo.
+</br></br>
+Muchas gracias y un saludo!
+"""
+
+[[articles]]
+number = 1
+url = "https://newsletter.weskao.com/p/technical-leaders-make-these-4-common"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Algunos trucos de story telling para gente técnica, atacando a las soft skills."
+
+[[articles]]
+number = 2
+url = "https://www.youtube.com/watch?v=CWYwz3iV1g0"
+type = "VIDEO"
+cat = "GENERAL"
+summary = "Artículo de este señor, Arjan, que vuelve al ataque hablando de dejar de usar primitivas y crear tipos, sobre todo cuando tienen sentidos. Algunas veces incluso un Enum es mas que suficiente."
+
+[[articles]]
+number = 3
+url = "https://lawsofsoftwareengineering.com/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Este me ha encantado porque es una web en el que se ha recopilado todos las leyes y dichos que hemos escuchado mas de una vez, mas un montón mas que no conocía y que me gustaría ver mas a fondo."
+
+[[articles]]
+number = 4
+url = "https://medium.com/codex/free-linux-courses-with-free-certification-no-fake-promises-746db8463b60"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Cursos de Linux en el que al final del todo te dan una certificación, tal y como dice el título. Puede que el mas interesante es el LFS101."
