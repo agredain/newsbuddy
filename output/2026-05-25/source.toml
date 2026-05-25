@@ -1,0 +1,39 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 54
+date = "25 Mayo 2026"
+welcome = """
+Buenas a todos,
+</br></br>
+Aqui traigo un listado de enlaces bien fresquitos para la temporada de levante que tenemos ahora. También quiero aprovechar, para los que no lo sabían, que había presentado una propuesta de charla para el OpenSouthCode pero me temo que al final me la han rechazado, asi que no hay charla que valga.
+</br></br>
+Muchas gracias y un saludo!
+"""
+
+[[articles]]
+number = 1
+url = "https://translate.kagi.com/?from=es_es&to=linkedin&text=Todas+las+ma%C3%B1anas+me+tomo+un+carajillo"
+type = "TEXT"
+cat = "GENERAL"
+summary = "No se muy bien como llego a mis mamos, pero me encanta este traductor que como valor añadido, tiene un traductor de español a Linkedin. Las burradas que he puesto y las traducciones que da son increibles."
+
+[[articles]]
+number = 2
+url = "https://app.supermo.no/share/d39d976767bda36d/47d4a492b1"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Artículo de la Bolinista, que escribe verdades como hostias (vease la h), cuenta el tema de la importancia de las soft skill en el mundo que viene para los programadores."
+
+[[articles]]
+number = 3
+url = "https://omny.fm/shows/cuidado-con-las-macros-ocultas/m49-fracasar-primero-para-innovar-despu-s"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Episodio del Podcast Cuidado con las Macros Ocultas, en el que se habla del tema de la innovación."
+
+[[articles]]
+number = 4
+url = "https://libmedium.batsense.net/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Web supermolona donde puedes ver los artículos de Medium que se encuentran detrás del muro de pago."
