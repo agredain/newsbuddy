@@ -1,0 +1,41 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 56
+date = "20 Julio 2026"
+welcome = """
+Buenas a todos,
+</br></br>
+Primero disculpad el retraso de una semana en lanzar este número, tenía material para dar pero no he sido capaz de sentarme para generarlo.
+</br></br>
+Con la temporada de verano en danza y con la gente cogiendo ya vacaciones, espero que disfrutéis de los siguientes artículos.
+</br></br>
+Muchas gracias y un saludo!
+"""
+
+[[articles]]
+number = 1
+url = "https://tinfoilpigeons.com/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Sistema de trackeo ADS-B, pero mas molón. Interesante para saber quien te está espiando desde los cielos."
+
+[[articles]]
+number = 2
+url = "https://luminousmen.substack.com/p/be-the-idiot"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Aunque el título no invita a actuar directamente, si tengo que decir que el mensaje que transmite es Interesante. Es otra versión de lo que me decía un jefe, 'mejor preguntar y parecer tonto que luego demostrar serlo'."
+
+[[articles]]
+number = 3
+url = "https://qunabu.github.io/Gravity/#what-is-gravity"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Web interactiva explicando como funciona la gravedad, trayectoria de planetas y lunas, etc. Me sorprendió por el nivel de detalle y cuidado. Abstenerse terraplanistas."
+
+[[articles]]
+number = 4
+url = "https://www.youtube.com/watch?v=MUWAbpg1xLo"
+type = "VIDEO"
+cat = "GENERAL"
+summary = "Vídeo de 5 minuntos explicando la diferencia entre los tres tipos de unidades de computación."
