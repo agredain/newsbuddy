@@ -1,0 +1,41 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 55
+date = "15 Junio 2026"
+welcome = """
+Buenas a todos,
+</br></br>
+Primero disculpad el retraso de una semana en lanzar este número, tenía material para dar pero no he sido capaz de sentarme para generarlo.
+</br></br>
+Después de la resaca del Croft Twist y el bingo musical, toca una lista de nuevos artículos que espero que entren igual de fresquito. 
+</br></br>
+Muchas gracias y un saludo!
+"""
+
+[[articles]]
+number = 1
+url = "https://medium.com/womenintechnology/stop-memorizing-design-patterns-use-this-decision-tree-instead-e84f22fca9fa?sk=d8ce25c71ba530c026c9b90e9c8d38f0"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Este artículo me ha molado porque te da un arbol de decisión de los patrones de diseño que alguna vez hemos hablado. Siempre ha sido como conocer las herramientas de tu caja de herramientas pero no saber cuando usar el destornillador de estrella y cuando el plano."
+
+[[articles]]
+number = 2
+url = "https://substack-post-media.s3.amazonaws.com/public/images/1b5057ba-3667-446b-9760-b726da1431f4_2484x3002.png"
+type = "TEXT"
+cat = "IMAGE"
+summary = "Una imagen vale mas que mil palabras, y esta está muy bien para entender estos tres conceptos."
+
+[[articles]]
+number = 4
+url = "https://www.webreactiva.com/skills/politenizer"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Y esta no la veíais venir. Como mandar al carajo a tu compañero, escribirlo en un texto, quedarte a gusto, y pasarlo por una IA para que lo convierta en una critica constructiva. Muy del estilo al traductor de Linkedin."
+
+[[articles]]
+number = 3
+url = "https://newsletter.weskao.com/p/high-performers-share-their-point-of-view"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Artículo para compartir puntos de vista con los demás. Entiendo que esto vale tanto para cosas técnicas como otras que no son tantas."
