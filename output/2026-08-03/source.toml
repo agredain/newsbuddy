@@ -1,0 +1,41 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 57
+date = "03 Agosto 2026"
+welcome = """
+Buenas a todos,
+</br></br>
+No tengo mucho que comentar, mucha gente de vacaciones y disfrutando del verano, la playa y los abusos de la comida y del alcohol.
+</br></br>
+Para los que no están de vacaciones, un batiburrillo de artículos para taladraros el cerebro de mala manera.
+</br></br>
+Muchas gracias y un saludo!
+"""
+
+[[articles]]
+number = 1
+url = "https://www.typemock.com/code-coverage-isnt-enough/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Artículo que te explica porque puedes tener un 90% de cobertura de código, y que tus tests sigan siendo una basura. Si, lo digo asi de duro, pero he visto como esto a pasado y quiero que sea una autocritica para todos."
+
+[[articles]]
+number = 2
+url = "https://nikolays.github.io/PGSimCity/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Web que me pareció graciosa pero además educativa, PGSimCity. Vale, es mas divertido SimCity, pero seguramente se pueda aprender algo de como funciona PostgreSQL por dentro."
+
+[[articles]]
+number = 3
+url = "https://elbraulio.net/posts/te-pagan-por-tener-criterio"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Si la IA hace mi trabajo, ¿que c*** hago yo entonces? Algo que me parece de cajón pero que creo que es importante para todos."
+
+[[articles]]
+number = 4
+url = "https://www.ilograph.com/blog/posts/more-common-diagram-mistakes/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Algunos tips para cuando hagamos diagramas de diseño, ahora que en BOX-AI están currando esta parte aunque poca falta les hace ya."
