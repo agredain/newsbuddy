@@ -1,0 +1,41 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 58
+date = "17 Agosto 2026"
+welcome = """
+Buenas a todos,
+</br></br>
+Última newsletter antes de cogerme vacaciones, volveré en septiembre espero que con mas cositas.
+</br></br>
+Mientras, disfrutad de los enlaces, que algunos son mas accionables que otros.
+</br></br>
+Muchas gracias y un saludo!
+"""
+
+[[articles]]
+number = 1
+url = "https://open.spotify.com/episode/5nmXgobYIm9TAbzsUlNXTX?si=BJtu7mdJRSyc8j1vM-Al1Q"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Reflexión sobre a que nos está llevando la IA, y que hay que tener cuidado con lo que se entrega. Tengo que confesar que yo también he pecado."
+
+[[articles]]
+number = 2
+url = "https://app.supermo.no/share/42bce6597614755f/2cb193e9d3"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Articulo de la Bolinista en el que te explica las ventajas del del \"token fasting\"."
+
+[[articles]]
+number = 3
+url = "https://newsletter.weskao.com/p/detail-oriented"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Relacionado con el primer punto, pero mas general."
+
+[[articles]]
+number = 4
+url = "https://www.youtube.com/watch?v=U4Iq_rywlnY"
+type = "VIDEO"
+cat = "GENERAL"
+summary = "Video de Javier Garzas, en el que te invita a hacer todo lo contraro a la Bolinista. Seguramente el punto medio está la virtud."
