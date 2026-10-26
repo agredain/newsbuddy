@@ -1,0 +1,168 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all padding="0" />
+      <mj-text font-family="sans-serif" />
+      <mj-class name="header" padding="10px 10px 20px 10px" background-color="white" />
+      <mj-class name="header-title" align="left" font-family="monospace" font-size="24pt" font-weight="600" line-height="24pt" padding-bottom="10px" />
+      <mj-class name="header-image" align="right" width="100px" />
+      <mj-class name="header-issue" align="left" font-family="monospace" font-weight="200" />
+      <mj-class name="header-date" align="right" font-family="monospace" font-weight="200" />
+
+      <mj-class name="article" padding-bottom="10px" />
+      <mj-class name="article-title" font-family="monospace" font-weight="400" font-size="14pt" />
+
+      <mj-class name="summary" padding="0 10px 20px 10px" />
+
+      <mj-class name="category-heading" font-family="monospace" font-weight="600" font-size="18pt" />
+
+      <mj-class name="articles" padding="0 10px 0 10px" />
+      <mj-class name="images" padding="0 10px 20px 10px" />
+
+      <mj-class name="footer" padding="10px 10px 10px 10px" />
+
+      <mj-class name="footer-unsub" align="left" />
+      <mj-class name="footer-feedback" align="right" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-container>
+
+      <!-- Header -->
+      <mj-wrapper mj-class="header">
+        <mj-section>
+          <mj-column width="100%" vertical-align="middle">
+            <mj-text mj-class="header-title">Newsletter del Lunes.</mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section>
+          <mj-group>
+            <mj-column width="50%">
+              <mj-text mj-class="header-issue">Issue No. 61</mj-text>
+            </mj-column>
+            <mj-column width="50%">
+              <mj-text mj-class="header-date">26 octubre 2026</mj-text>
+            </mj-column>
+          </mj-group>
+        </mj-section>
+
+        <mj-section>
+          <mj-column>
+            <mj-divider border-width="1px" border-style="dotted" border-color="lightgrey" />
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+      <!-- /Header -->
+
+      <!-- Summary -->
+      <mj-section mj-class="summary">
+        <mj-column>
+          <mj-text>
+            
+<p>Buenas a todos,</p>
+  <p>Vamos con la edición número 61, se que ha salido pegadito al anterior. Podría decir que voy a retomarlo semanal, pero no, simplemente tengo un recordatorio cada dos semanas y me das mas pereza cambiarlo que hacer una nueva edición.</p>
+  <p>Además, cuanto antes nos quitemos la tirita mejor, asi que aqui estamos.</p>
+<p>Os paso las últimas noticias de los proyectos de GTD:</p>
+<ul>
+<li>El próximo viernes 30 de octubre Box-AI para sus primeras pruebas FAT con Navantia, vamos a desarle lo mejor al equipo.</li>
+<li>En CAPSUL-IA también tienen autoimpuesto el plazo de una versión PMV capsula de IA para el 30 de Octubre. Mucho animo para este equipo también.</li>
+  <li>En el proyecto GAIA estan los compañeros cerrando documentación. Desde aqui os doy mi apoyo ya que se que hacer documentación no es lo que mas nos gusta.</li>
+<li>Esta semana estaremos Cristina, Ian y yo a tope con la propuesta INTACT. Es un Horizon en el que participamos en un consorcio europeo, en esta ocasión presentamos una versión de GAIA para desastres naturales (inundaciones y fuego con riesgo químico).</li>
+</ul>
+<p>Creo que esta ocasión el material es un poco mas flojito, pero espero que al menos sea de utilidad.</p>
+<p>Muchas gracias y un saludo!</p>
+
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Images -->
+      <mj-section mj-class="images">
+        <mj-column>
+          
+        </mj-column>
+      </mj-section>
+      
+      <mj-section>
+        <mj-column>
+          <mj-text>
+            <h2>Artículos</h2>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Articles -->
+			<mj-wrapper mj-class="articles">
+				
+          
+					<mj-section mj-class="article">
+						<mj-column>
+							
+              <mj-text mj-class="article-title"><a href="https://www.mixcloud.com/principiodeincertidumbre/el-desaf%C3%ADo-de-la-ia-est%C3%A1-en-evitar-que-ocupe-el-lugar-de-nuestra-mente-26092026/">El desafío de la IA está en evitar que ocupe el lugar de nuestra mente (26/09/2026) by PRINCIPIO DE INCERTIDUMBRE | Mixcloud</a></mj-text>
+              
+							<mj-text mj-class="article-summary">Tiene un tiempo pero me gustó mucho este programa de Principio de Incertidumbre. En esta edición hablan de como la IA nos puede atrofiar el cerebro, al igual que me decían de pequeño con la tele.</mj-text>
+						</mj-column>
+					</mj-section>
+				  
+        
+          
+					<mj-section mj-class="article">
+						<mj-column>
+							
+              <mj-text mj-class="article-title"><a href="https://alifeengineered.substack.com/p/the-art-of-dealing-with-ambiguity-89d?r=lxcdw&triedRedirect=true">The Art of Dealing with Ambiguity - by Steve Huynh</a></mj-text>
+              
+							<mj-text mj-class="article-summary">Artículo en el que te explican como trabajar con la ambigüedad. Te lo puedo resumir que preguntando mucho.</mj-text>
+						</mj-column>
+					</mj-section>
+				  
+        
+          
+					<mj-section mj-class="article">
+						<mj-column>
+							
+              <mj-text mj-class="article-title"><a href="https://towardsdev.com/modern-cpp-stl-container-selection-guide-cpp20-cpp23-749ccadcdb2a">Attention Required! | Cloudflare</a></mj-text>
+              
+							<mj-text mj-class="article-summary">¿Cuando debería usar un std::vector y cuando un std::array? Espera, ¿que hay una clase std::set? Artículo que te ayuda a elegir que contenedor deberías usar en función de tu implementación.</mj-text>
+						</mj-column>
+					</mj-section>
+				  
+        
+          
+					<mj-section mj-class="article">
+						<mj-column>
+							
+              <mj-text mj-class="article-title"><a href="https://towardsdev.com/the-complete-modern-c-roadmap-c-11-c-14-c-17-c-20-c-23-a-structured-learning-path-7988a9db635e">Attention Required! | Cloudflare</a></mj-text>
+              
+							<mj-text mj-class="article-summary">Y siguiendo con C++, un roadmap sobre las distintas versiones de este lenguaje.</mj-text>
+						</mj-column>
+					</mj-section>
+				  
+        
+
+        
+      </mj-wrapper>
+
+      <!-- Footer -->
+      <mj-wrapper mj-class="footer">
+        <mj-section>
+          <mj-column>
+            <mj-divider border-width="1px" border-style="dotted" border-color="lightgrey" padding-bottom="5px" />
+          </mj-column>
+        </mj-section>
+
+        <mj-section>
+          <mj-group>
+            <mj-column width="50%">
+              <mj-text mj-class="footer-unsub">Not interested? <a href="mailto:daniel.agredano@gtd.eu?Subject=iX%20Newsletter%20--%20Unsubscribe">Unsubscribe</a></mj-text>
+            </mj-column>
+            <mj-column width="50%">
+              <mj-text mj-class="footer-feedback"><a href="mailto:daniel.agredano@gtd.eu?Subject=iX%20Newsletter%20--%20Feedback">Feedback</a></mj-text>
+            </mj-column>
+          </mj-group>
+        </mj-section>
+      </mj-wrapper>
+
+    </mj-container>
+  </mj-body>
+</mjml>

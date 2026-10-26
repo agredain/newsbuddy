@@ -1,0 +1,46 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 61
+date = "26 octubre 2026"
+welcome = """
+<p>Buenas a todos,</p>
+  <p>Vamos con la edición número 61, se que ha salido pegadito al anterior. Podría decir que voy a retomarlo semanal, pero no, simplemente tengo un recordatorio cada dos semanas y me das mas pereza cambiarlo que hacer una nueva edición.</p>
+  <p>Además, cuanto antes nos quitemos la tirita mejor, asi que aqui estamos.</p>
+<p>Os paso las últimas noticias de los proyectos de GTD:</p>
+<ul>
+<li>El próximo viernes 30 de octubre Box-AI para sus primeras pruebas FAT con Navantia, vamos a desarle lo mejor al equipo.</li>
+<li>En CAPSUL-IA también tienen autoimpuesto el plazo de una versión PMV capsula de IA para el 30 de Octubre. Mucho animo para este equipo también.</li>
+  <li>En el proyecto GAIA estan los compañeros cerrando documentación. Desde aqui os doy mi apoyo ya que se que hacer documentación no es lo que mas nos gusta.</li>
+<li>Esta semana estaremos Cristina, Ian y yo a tope con la propuesta INTACT. Es un Horizon en el que participamos en un consorcio europeo, en esta ocasión presentamos una versión de GAIA para desastres naturales (inundaciones y fuego con riesgo químico).</li>
+</ul>
+<p>Creo que esta ocasión el material es un poco mas flojito, pero espero que al menos sea de utilidad.</p>
+<p>Muchas gracias y un saludo!</p>
+"""
+
+[[articles]]
+number = 1
+url = "https://www.mixcloud.com/principiodeincertidumbre/el-desaf%C3%ADo-de-la-ia-est%C3%A1-en-evitar-que-ocupe-el-lugar-de-nuestra-mente-26092026/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Tiene un tiempo pero me gustó mucho este programa de Principio de Incertidumbre. En esta edición hablan de como la IA nos puede atrofiar el cerebro, al igual que me decían de pequeño con la tele."
+
+[[articles]]
+number = 2
+url = "https://alifeengineered.substack.com/p/the-art-of-dealing-with-ambiguity-89d?r=lxcdw&triedRedirect=true"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Artículo en el que te explican como trabajar con la ambigüedad. Te lo puedo resumir que preguntando mucho."
+
+[[articles]]
+number = 3
+url = "https://towardsdev.com/modern-cpp-stl-container-selection-guide-cpp20-cpp23-749ccadcdb2a"
+type = "TEXT"
+cat = "GENERAL"
+summary = "¿Cuando debería usar un std::vector y cuando un std::array? Espera, ¿que hay una clase std::set? Artículo que te ayuda a elegir que contenedor deberías usar en función de tu implementación."
+
+[[articles]]
+number = 4
+url = "https://towardsdev.com/the-complete-modern-c-roadmap-c-11-c-14-c-17-c-20-c-23-a-structured-learning-path-7988a9db635e"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Y siguiendo con C++, un roadmap sobre las distintas versiones de este lenguaje."
