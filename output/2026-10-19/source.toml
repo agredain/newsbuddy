@@ -1,0 +1,46 @@
+[metadata]
+title = "Newsletter del Lunes."
+no = 60
+date = "19 octubre 2026"
+welcome = """
+<p>Buenas a todos,</p>
+<p>Ya hemos llegado al número 60, y la verdad es que son muchos números ya. Esta edición que se debió enviar la semana pasada va con retraso y pido perdón por ello.</p>
+<p>La edición anterior hablé de algunos de los proyectos que se están gestionando y espero que ayudara un poco a dar algo de visibilidad. Si no recuerdo mal tuve algo de feedback positivo al respecto (pero poco, no sea que me acostumbre).</p>
+<p>Os paso las últimas noticias de los proyectos de GTD:</p>
+<ul>
+<li>Box-AI se está cerrando, en todos los aspectos, y se prevee entrega y FAT al final de mes. Mucho animo al equipo y gracias a las personas que han colaborado en el proyecto.</li>
+<li>En CAPSUL-IA el equipo está apretando el ritmo para tener una capsula de IA para el 30 de Octubre. También se está empezando a mover para tener el mes que viene el último F2F del año con el consorcio en PAL Robotics.</li>
+<li>El pasado viernes 9 de octubre, GAIA realizó la demostración de los desarrollos frente al CDTI. Las impresiones del técnico fueron buenas y comentó que es un proyecto muy bueno para 'foto de politico'. La siguiente parada documentación y evento en Santander con los Interesados del proyecto.</li>
+<li>Salió la resolución de SHIELD-PCP, en el que participamos con C4i-MAN. De primeras no fue favorable pero se la levantado un tiempo de disputas, a ver si conseguimos remontar.</li>
+</ul>
+<p>Por último, si véis que me he dejado alguna cosa en el tintero o tenéis material que pensáis que interesante compartir, no dudéis en decirmelo para compartirlo por este medio.</p>
+<p>Muchas gracias y un saludo!</p>
+"""
+
+[[articles]]
+number = 1
+url = "https://app.supermo.no/share/f8dcd6cfa1ade7e3/edc989ed66"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Nueva edición de la bolinista, creo que no tiene ningún desperdicio. Echarle un vistazo que lo que cuenta creo que es muy interesante."
+
+[[articles]]
+number = 2
+url = "https://mikefisher.substack.com/p/load-bearing-people"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Importancia sobre el tema de los silos de conocimiento, como en algunos casos puede ser contraproducente que exista un 'experto', por decirlo de una forma, y como solucionarlo."
+
+[[articles]]
+number = 3
+url = "https://s4nk37.medium.com/one-c-language-multiple-compilers-gcc-clang-and-msvc-explained-1e51855e28cf"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Articulo que explica porque C++ es tan divertido de compilar..."
+
+[[articles]]
+number = 4
+url = "https://postgresisenough.dev/"
+type = "TEXT"
+cat = "GENERAL"
+summary = "Arículo que explica como Postgres es suficiente para muchas cosas y lo poderoso que puede ser esta base de datos de código libre con respecto a la competencia."

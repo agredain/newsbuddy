@@ -1,0 +1,168 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all padding="0" />
+      <mj-text font-family="sans-serif" />
+      <mj-class name="header" padding="10px 10px 20px 10px" background-color="white" />
+      <mj-class name="header-title" align="left" font-family="monospace" font-size="24pt" font-weight="600" line-height="24pt" padding-bottom="10px" />
+      <mj-class name="header-image" align="right" width="100px" />
+      <mj-class name="header-issue" align="left" font-family="monospace" font-weight="200" />
+      <mj-class name="header-date" align="right" font-family="monospace" font-weight="200" />
+
+      <mj-class name="article" padding-bottom="10px" />
+      <mj-class name="article-title" font-family="monospace" font-weight="400" font-size="14pt" />
+
+      <mj-class name="summary" padding="0 10px 20px 10px" />
+
+      <mj-class name="category-heading" font-family="monospace" font-weight="600" font-size="18pt" />
+
+      <mj-class name="articles" padding="0 10px 0 10px" />
+      <mj-class name="images" padding="0 10px 20px 10px" />
+
+      <mj-class name="footer" padding="10px 10px 10px 10px" />
+
+      <mj-class name="footer-unsub" align="left" />
+      <mj-class name="footer-feedback" align="right" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-container>
+
+      <!-- Header -->
+      <mj-wrapper mj-class="header">
+        <mj-section>
+          <mj-column width="100%" vertical-align="middle">
+            <mj-text mj-class="header-title">Newsletter del Lunes.</mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section>
+          <mj-group>
+            <mj-column width="50%">
+              <mj-text mj-class="header-issue">Issue No. 60</mj-text>
+            </mj-column>
+            <mj-column width="50%">
+              <mj-text mj-class="header-date">19 octubre 2026</mj-text>
+            </mj-column>
+          </mj-group>
+        </mj-section>
+
+        <mj-section>
+          <mj-column>
+            <mj-divider border-width="1px" border-style="dotted" border-color="lightgrey" />
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+      <!-- /Header -->
+
+      <!-- Summary -->
+      <mj-section mj-class="summary">
+        <mj-column>
+          <mj-text>
+            
+<p>Buenas a todos,</p>
+<p>Ya hemos llegado al número 60, y la verdad es que son muchos números ya. Esta edición que se debió enviar la semana pasada va con retraso y pido perdón por ello.</p>
+<p>La edición anterior hablé de algunos de los proyectos que se están gestionando y espero que ayudara un poco a dar algo de visibilidad. Si no recuerdo mal tuve algo de feedback positivo al respecto (pero poco, no sea que me acostumbre).</p>
+<p>Os paso las últimas noticias de los proyectos de GTD:</p>
+<ul>
+<li>Box-AI se está cerrando, en todos los aspectos, y se prevee entrega y FAT al final de mes. Mucho animo al equipo y gracias a las personas que han colaborado en el proyecto.</li>
+<li>En CAPSUL-IA el equipo está apretando el ritmo para tener una capsula de IA para el 30 de Octubre. También se está empezando a mover para tener el mes que viene el último F2F del año con el consorcio en PAL Robotics.</li>
+<li>El pasado viernes 9 de octubre, GAIA realizó la demostración de los desarrollos frente al CDTI. Las impresiones del técnico fueron buenas y comentó que es un proyecto muy bueno para 'foto de politico'. La siguiente parada documentación y evento en Santander con los Interesados del proyecto.</li>
+<li>Salió la resolución de SHIELD-PCP, en el que participamos con C4i-MAN. De primeras no fue favorable pero se la levantado un tiempo de disputas, a ver si conseguimos remontar.</li>
+</ul>
+<p>Por último, si véis que me he dejado alguna cosa en el tintero o tenéis material que pensáis que interesante compartir, no dudéis en decirmelo para compartirlo por este medio.</p>
+<p>Muchas gracias y un saludo!</p>
+
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Images -->
+      <mj-section mj-class="images">
+        <mj-column>
+          
+        </mj-column>
+      </mj-section>
+      
+      <mj-section>
+        <mj-column>
+          <mj-text>
+            <h2>Artículos</h2>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Articles -->
+			<mj-wrapper mj-class="articles">
+				
+          
+					<mj-section mj-class="article">
+						<mj-column>
+							
+              <mj-text mj-class="article-title"><a href="https://app.supermo.no/share/f8dcd6cfa1ade7e3/edc989ed66">La Bonilista — ¿Siguen vigentes las leyes elementales de ingeniería? 📐</a></mj-text>
+              
+							<mj-text mj-class="article-summary">Nueva edición de la bolinista, creo que no tiene ningún desperdicio. Echarle un vistazo que lo que cuenta creo que es muy interesante.</mj-text>
+						</mj-column>
+					</mj-section>
+				  
+        
+          
+					<mj-section mj-class="article">
+						<mj-column>
+							
+              <mj-text mj-class="article-title"><a href="https://mikefisher.substack.com/p/load-bearing-people">Load-Bearing People - by Mike Fisher</a></mj-text>
+              
+							<mj-text mj-class="article-summary">Importancia sobre el tema de los silos de conocimiento, como en algunos casos puede ser contraproducente que exista un 'experto', por decirlo de una forma, y como solucionarlo.</mj-text>
+						</mj-column>
+					</mj-section>
+				  
+        
+          
+					<mj-section mj-class="article">
+						<mj-column>
+							
+              <mj-text mj-class="article-title"><a href="https://s4nk37.medium.com/one-c-language-multiple-compilers-gcc-clang-and-msvc-explained-1e51855e28cf">Attention Required! | Cloudflare</a></mj-text>
+              
+							<mj-text mj-class="article-summary">Articulo que explica porque C++ es tan divertido de compilar...</mj-text>
+						</mj-column>
+					</mj-section>
+				  
+        
+          
+					<mj-section mj-class="article">
+						<mj-column>
+							
+              <mj-text mj-class="article-title"><a href="https://postgresisenough.dev/">Postgres Is Enough</a></mj-text>
+              
+							<mj-text mj-class="article-summary">Arículo que explica como Postgres es suficiente para muchas cosas y lo poderoso que puede ser esta base de datos de código libre con respecto a la competencia.</mj-text>
+						</mj-column>
+					</mj-section>
+				  
+        
+
+        
+      </mj-wrapper>
+
+      <!-- Footer -->
+      <mj-wrapper mj-class="footer">
+        <mj-section>
+          <mj-column>
+            <mj-divider border-width="1px" border-style="dotted" border-color="lightgrey" padding-bottom="5px" />
+          </mj-column>
+        </mj-section>
+
+        <mj-section>
+          <mj-group>
+            <mj-column width="50%">
+              <mj-text mj-class="footer-unsub">Not interested? <a href="mailto:daniel.agredano@gtd.eu?Subject=iX%20Newsletter%20--%20Unsubscribe">Unsubscribe</a></mj-text>
+            </mj-column>
+            <mj-column width="50%">
+              <mj-text mj-class="footer-feedback"><a href="mailto:daniel.agredano@gtd.eu?Subject=iX%20Newsletter%20--%20Feedback">Feedback</a></mj-text>
+            </mj-column>
+          </mj-group>
+        </mj-section>
+      </mj-wrapper>
+
+    </mj-container>
+  </mj-body>
+</mjml>
