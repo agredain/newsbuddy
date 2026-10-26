@@ -1,0 +1,170 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all padding="0" />
+      <mj-text font-family="sans-serif" />
+      <mj-class name="header" padding="10px 10px 20px 10px" background-color="white" />
+      <mj-class name="header-title" align="left" font-family="monospace" font-size="24pt" font-weight="600" line-height="24pt" padding-bottom="10px" />
+      <mj-class name="header-image" align="right" width="100px" />
+      <mj-class name="header-issue" align="left" font-family="monospace" font-weight="200" />
+      <mj-class name="header-date" align="right" font-family="monospace" font-weight="200" />
+
+      <mj-class name="article" padding-bottom="10px" />
+      <mj-class name="article-title" font-family="monospace" font-weight="400" font-size="14pt" />
+
+      <mj-class name="summary" padding="0 10px 20px 10px" />
+
+      <mj-class name="category-heading" font-family="monospace" font-weight="600" font-size="18pt" />
+
+      <mj-class name="articles" padding="0 10px 0 10px" />
+      <mj-class name="images" padding="0 10px 20px 10px" />
+
+      <mj-class name="footer" padding="10px 10px 10px 10px" />
+
+      <mj-class name="footer-unsub" align="left" />
+      <mj-class name="footer-feedback" align="right" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-container>
+
+      <!-- Header -->
+      <mj-wrapper mj-class="header">
+        <mj-section>
+          <mj-column width="100%" vertical-align="middle">
+            <mj-text mj-class="header-title">Newsletter del Lunes.</mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section>
+          <mj-group>
+            <mj-column width="50%">
+              <mj-text mj-class="header-issue">Issue No. 59</mj-text>
+            </mj-column>
+            <mj-column width="50%">
+              <mj-text mj-class="header-date">29 septiembre 2026</mj-text>
+            </mj-column>
+          </mj-group>
+        </mj-section>
+
+        <mj-section>
+          <mj-column>
+            <mj-divider border-width="1px" border-style="dotted" border-color="lightgrey" />
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+      <!-- /Header -->
+
+      <!-- Summary -->
+      <mj-section mj-class="summary">
+        <mj-column>
+          <mj-text>
+            
+<p>Buenas a todos,</p>
+<p>Primero decir que me ha resultado imposible publicar justo a mi vuelta de vacaciones, y que también tuve complicaciones para publicar ayer.</p>
+<p>Quiero aprovechar para cambiar un poco el formato. Se que a veces no se da visibilidad de que es lo que se está cocinando en la empresa, y no es que sea un secreto que no se pueda contar. La mayoría de las veces uno se entera de los proyectos por conversaciones de pasillo o porque han preguntado explicitamente. En este caso, quiero utilizar la newsletter para contar los proyectos en los estoy (si puedo alguno mas también) y en los que tengo algo interesante que contar.</p>
+<p>Os paso las últimas noticias de los proyectos de GTD:</p>
+<ul>
+<li>Box-AI pasando su recta final para ser integrado dentro de los nuevos VERT Fase II. Corrigiendo los pequeños errores que hay y haciendo mucha documentación.</li>
+<li>En CAPSUL-IA el equipo está apretando el ritmo para tener una capsula de IA lo antes posible, ha habido progresos en estos días y se está generando mucho conocimiento, sobre todo en Yocto y IA explicativa.</li>
+<li>El proyecto GAIA de gestión de incendios forestales se están acercando a su final (diciembre de este año). El equipo sigue terminando sus integraciones con el consorcio y preparando una demostración para el CDTI para el próximo viernes 9 de Octubre.</li>
+<li>Los chicos del TDS, Alberto y Marco Antonio, ya han vuelto de Indonesia con muchos objetivos conseguidos, muchos bugs corregidos y muchas aventuras que contar.</li>
+<li>Hoy se cierra el plazo para la presentación del proyecto ASGARD para las EDF. Para quien no lo sepa, este proyecto pretende desarrollar un sistema de consciencia situacional para detección de amenazas usando drones e IA. Aqui nos presentamos con un Box-AI versión para drones.</li>
+<li>El próximo mes sale la resolución de SHIELD-PCP, no sabemos a ciencia cierta que parte del més. Esta es una convocatoria de pre-compra comercial en el que participamos con C4i-MAN.</li>
+</ul>
+<p>Por último, si véis que me he dejado alguna cosa en el tintero o tenéis material que pensáis que interesante compartir, no dudéis en decirmelo para compartirlo por este medio.</p>
+<p>Muchas gracias y un saludo!</p>
+
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Images -->
+      <mj-section mj-class="images">
+        <mj-column>
+          
+        </mj-column>
+      </mj-section>
+      
+      <mj-section>
+        <mj-column>
+          <mj-text>
+            <h2>Artículos</h2>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Articles -->
+			<mj-wrapper mj-class="articles">
+				
+          
+					<mj-section mj-class="article">
+						<mj-column>
+							
+              <mj-text mj-class="article-title"><a href="https://github.com/P-Adamiec/Free-Games-Claimer-Remaster">GitHub - P-Adamiec/Free-Games-Claimer-Remaster: A complete ground-up Python remaster inspired by https://github.com/vogler/free-games-claimer · GitHub</a></mj-text>
+              
+							<mj-text mj-class="article-summary">Se que muchos sois jugones, y revisando tanta IA y retocando tando prompt no tenéis tiempo para ver las últimas ofertas. Con este proyecto podéis incluir a vuestra biblioteca los juegos que salen gratis sin hacer ningún esfuerzo.</mj-text>
+						</mj-column>
+					</mj-section>
+				  
+        
+          
+					<mj-section mj-class="article">
+						<mj-column>
+							
+              <mj-text mj-class="article-title"><a href="https://ben.balter.com/2026/07/14/work-loudly/">Work loudly | Ben Balter</a></mj-text>
+              
+							<mj-text mj-class="article-summary">Articulo sobre trabajar haciendo algo de ruido, pero no de mala manera. Tirando de memoria, es hacer notar que es lo que estas haciendo, sin caer en la parte de regodearte de lo que has hecho.</mj-text>
+						</mj-column>
+					</mj-section>
+				  
+        
+          
+					<mj-section mj-class="article">
+						<mj-column>
+							
+              <mj-text mj-class="article-title"><a href="https://github.com/codecrafters-io/build-your-own-x">GitHub - codecrafters-io/build-your-own-x: Master programming by recreating your favorite technologies from scratch. · GitHub</a></mj-text>
+              
+							<mj-text mj-class="article-summary">Una de las formas de aprender a programar es leer el código de otros, y la segunda imitiar lo que hacen los otros o que te lo expliquen.</mj-text>
+						</mj-column>
+					</mj-section>
+				  
+        
+          
+					<mj-section mj-class="article">
+						<mj-column>
+							
+              <mj-text mj-class="article-title"><a href="https://medium.com/@berasujata96/stop-memorizing-c-versions-read-them-as-a-story-d975a9e0e4bb">Attention Required! | Cloudflare</a></mj-text>
+              
+							<mj-text mj-class="article-summary">Artículo corto en el que se mencionan las diferentes versiones de C++, y que mejoran se implementaron en cada uno de ellas.</mj-text>
+						</mj-column>
+					</mj-section>
+				  
+        
+
+        
+      </mj-wrapper>
+
+      <!-- Footer -->
+      <mj-wrapper mj-class="footer">
+        <mj-section>
+          <mj-column>
+            <mj-divider border-width="1px" border-style="dotted" border-color="lightgrey" padding-bottom="5px" />
+          </mj-column>
+        </mj-section>
+
+        <mj-section>
+          <mj-group>
+            <mj-column width="50%">
+              <mj-text mj-class="footer-unsub">Not interested? <a href="mailto:daniel.agredano@gtd.eu?Subject=iX%20Newsletter%20--%20Unsubscribe">Unsubscribe</a></mj-text>
+            </mj-column>
+            <mj-column width="50%">
+              <mj-text mj-class="footer-feedback"><a href="mailto:daniel.agredano@gtd.eu?Subject=iX%20Newsletter%20--%20Feedback">Feedback</a></mj-text>
+            </mj-column>
+          </mj-group>
+        </mj-section>
+      </mj-wrapper>
+
+    </mj-container>
+  </mj-body>
+</mjml>
